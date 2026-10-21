@@ -1,6 +1,6 @@
 # Tobi John PLC: inventory health and executive visibility (demo)
 
-Made-up company (7 verticals, 25 business units, 36 months). Everything is invented, with known planted problems so the checks can be tested.
+This practice project shows how a group with 7 verticals and 25 business units can get one trusted view of its inventory. A pipeline cleans duplicates, negatives and extra zeros, then reconciles stock records to finance balances. It measures days of stock and sets a seasonal target range for each business unit, so leaders can see what is above, in or below range. It also flags slow-moving, expiring and at-risk items and ranks the actions by naira value. Results appear in a Streamlit dashboard, an HTML executive report and a copilot that answers questions from the model’s numbers. A monthly refresh script checks incoming data before updating everything. The company and its data are fictional.
 
 ## Run it
     pip install -r requirements.txt
