@@ -1,0 +1,54 @@
+warning_type,vertical,business_unit,item_id,item_name,stock_type,abc_class,closing_value,cover_days,shelf_life_days,amount,amount_meaning,detail
+Expiry risk,Agro,Animal Feeds,BU10-RM-014,Animal Feeds - raw materials 014,Raw materials,C,1300841387.3720508,,365.0,1300841387.3720508,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Foods,Pasta,BU01-FG-005,Pasta - finished goods 005,Finished goods,C,662999686.5259663,,270.0,662999686.5259663,Stock value that may expire before use,Not used in 6 months; shelf life 270.0 days
+Expiry risk,Foods,Breakfast Cereals,BU05-FG-005,Breakfast Cereals - finished goods 005,Finished goods,C,266182450.9441237,,270.0,266182450.9441237,Stock value that may expire before use,Not used in 6 months; shelf life 270.0 days
+Expiry risk,Agro,Fertilizer,BU11-FG-006,Fertilizer - finished goods 006,Finished goods,C,196071113.8734461,,195.0,196071113.8734461,Stock value that may expire before use,Not used in 6 months; shelf life 195.0 days
+Expiry risk,Sugar & Sweeteners,Refined Sugar,BU19-RM-002,Refined Sugar - raw materials 002,Raw materials,C,138751691.5213295,,365.0,138751691.5213295,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Packaging,Cartons,BU16-RM-011,Cartons - raw materials 011,Raw materials,C,130979434.76855695,,365.0,130979434.76855695,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Edible Oils & Fats,Soap,BU25-FG-005,Soap - finished goods 005,Finished goods,C,117392685.91699058,,474.0,117392685.91699058,Stock value that may expire before use,Not used in 6 months; shelf life 474.0 days
+Expiry risk,Sugar & Sweeteners,Confectionery,BU20-RM-002,Confectionery - raw materials 002,Raw materials,C,96958502.9093589,,365.0,96958502.9093589,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Packaging,Labels,BU18-RM-009,Labels - raw materials 009,Raw materials,C,66742990.077433415,,365.0,66742990.077433415,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Flour & Milling,Bran & Co-products,BU09-FG-005,Bran & Co-products - finished goods 005,Finished goods,C,56787582.10280157,,126.0,56787582.10280157,Stock value that may expire before use,Not used in 6 months; shelf life 126.0 days
+Expiry risk,Foods,Biscuits,BU03-RM-009,Biscuits - raw materials 009,Raw materials,C,49338833.409256935,,365.0,49338833.409256935,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Packaging,Cartons,BU16-RM-006,Cartons - raw materials 006,Raw materials,C,27757995.02159358,,365.0,27757995.02159358,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Expiry risk,Edible Oils & Fats,Cooking Fats,BU24-FG-008,Cooking Fats - finished goods 008,Finished goods,C,10369688.454485467,,365.0,10369688.454485467,Stock value that may expire before use,Not used in 6 months; shelf life 365.0 days
+Slow-moving,Agro,Animal Feeds,BU10-RM-014,Animal Feeds - raw materials 014,Raw materials,C,1300841387.3720508,,365.0,1300841387.3720508,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Foods,Pasta,BU01-RM-003,Pasta - raw materials 003,Raw materials,C,1069443235.9826353,,,1069443235.9826353,Stock value at risk of going obsolete,No use for 13 months
+Slow-moving,Flour & Milling,Bakery Flour,BU07-RM-008,Bakery Flour - raw materials 008,Raw materials,C,1062464479.4806017,,,1062464479.4806017,Stock value at risk of going obsolete,No use for 16 months
+Slow-moving,Foods,Pasta,BU01-FG-005,Pasta - finished goods 005,Finished goods,C,662999686.5259663,,270.0,662999686.5259663,Stock value at risk of going obsolete,No use for 22 months
+Slow-moving,Agro,Fertilizer,BU11-RM-002,Fertilizer - raw materials 002,Raw materials,C,459946446.8444377,,,459946446.8444377,Stock value at risk of going obsolete,No use for 15 months
+Slow-moving,Packaging,Flexible Films,BU17-FG-007,Flexible Films - finished goods 007,Finished goods,C,348575958.33977544,,,348575958.33977544,Stock value at risk of going obsolete,No use for 17 months
+Slow-moving,Foods,Breakfast Cereals,BU05-FG-005,Breakfast Cereals - finished goods 005,Finished goods,C,266182450.9441237,,270.0,266182450.9441237,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Sugar & Sweeteners,Syrups,BU21-RM-004,Syrups - raw materials 004,Raw materials,C,224610738.95495433,,,224610738.95495433,Stock value at risk of going obsolete,No use for 21 months
+Slow-moving,Agro,Fertilizer,BU11-FG-006,Fertilizer - finished goods 006,Finished goods,C,196071113.8734461,,195.0,196071113.8734461,Stock value at risk of going obsolete,No use for 14 months
+Slow-moving,Agro,Fertilizer,BU11-RM-005,Fertilizer - raw materials 005,Raw materials,C,186605531.34260592,,,186605531.34260592,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Foods,Breakfast Cereals,BU05-SP-004,Breakfast Cereals - spare parts 004,Spare parts,C,160294851.1139037,,,160294851.1139037,Stock value at risk of going obsolete,No use for 16 months
+Slow-moving,Sugar & Sweeteners,Refined Sugar,BU19-RM-002,Refined Sugar - raw materials 002,Raw materials,C,138751691.5213295,,365.0,138751691.5213295,Stock value at risk of going obsolete,No use for 18 months
+Slow-moving,Packaging,Cartons,BU16-RM-011,Cartons - raw materials 011,Raw materials,C,130979434.76855695,,365.0,130979434.76855695,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Sugar & Sweeteners,Syrups,BU21-RM-012,Syrups - raw materials 012,Raw materials,C,120702463.23554835,,,120702463.23554835,Stock value at risk of going obsolete,No use for 22 months
+Slow-moving,Edible Oils & Fats,Soap,BU25-FG-005,Soap - finished goods 005,Finished goods,C,117392685.91699058,,474.0,117392685.91699058,Stock value at risk of going obsolete,No use for 21 months
+Slow-moving,Packaging,Labels,BU18-RM-011,Labels - raw materials 011,Raw materials,C,98158918.58905576,,,98158918.58905576,Stock value at risk of going obsolete,No use for 22 months
+Slow-moving,Sugar & Sweeteners,Confectionery,BU20-RM-002,Confectionery - raw materials 002,Raw materials,C,96958502.9093589,,365.0,96958502.9093589,Stock value at risk of going obsolete,No use for 15 months
+Slow-moving,Packaging,Flexible Films,BU17-RM-006,Flexible Films - raw materials 006,Raw materials,C,70388487.32368797,,,70388487.32368797,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Packaging,Labels,BU18-RM-009,Labels - raw materials 009,Raw materials,C,66742990.077433415,,365.0,66742990.077433415,Stock value at risk of going obsolete,No use for 16 months
+Slow-moving,Flour & Milling,Bran & Co-products,BU09-FG-005,Bran & Co-products - finished goods 005,Finished goods,C,56787582.10280157,,126.0,56787582.10280157,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Packaging,Flexible Films,BU17-SP-001,Flexible Films - spare parts 001,Spare parts,C,55454492.69893931,,,55454492.69893931,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Agro,Fertilizer,BU11-SP-002,Fertilizer - spare parts 002,Spare parts,C,55304100.64743883,,,55304100.64743883,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Foods,Biscuits,BU03-RM-009,Biscuits - raw materials 009,Raw materials,C,49338833.409256935,,365.0,49338833.409256935,Stock value at risk of going obsolete,No use for 18 months
+Slow-moving,Beverages,Bottled Water,BU14-SP-002,Bottled Water - spare parts 002,Spare parts,C,49143497.05575148,,,49143497.05575148,Stock value at risk of going obsolete,No use for 13 months
+Slow-moving,Flour & Milling,Bakery Flour,BU07-RM-007,Bakery Flour - raw materials 007,Raw materials,C,48681152.15265718,,,48681152.15265718,Stock value at risk of going obsolete,No use for 15 months
+Slow-moving,Edible Oils & Fats,Soap,BU25-RM-001,Soap - raw materials 001,Raw materials,C,48636447.421347134,,,48636447.421347134,Stock value at risk of going obsolete,No use for 15 months
+Slow-moving,Edible Oils & Fats,Soap,BU25-SP-008,Soap - spare parts 008,Spare parts,C,48034874.714671746,,,48034874.714671746,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Agro,Fertilizer,BU11-PK-007,Fertilizer - packaging materials 007,Packaging materials,C,41272229.51229097,,,41272229.51229097,Stock value at risk of going obsolete,No use for 18 months
+Slow-moving,Packaging,Cartons,BU16-RM-006,Cartons - raw materials 006,Raw materials,C,27757995.02159358,,365.0,27757995.02159358,Stock value at risk of going obsolete,No use for 18 months
+Slow-moving,Packaging,Cartons,BU16-PK-001,Cartons - packaging materials 001,Packaging materials,C,21836455.81146514,,,21836455.81146514,Stock value at risk of going obsolete,No use for 13 months
+Slow-moving,Beverages,Energy Drinks,BU15-PK-007,Energy Drinks - packaging materials 007,Packaging materials,C,20135720.816670652,,,20135720.816670652,Stock value at risk of going obsolete,No use for 16 months
+Slow-moving,Foods,Pasta,BU01-PK-006,Pasta - packaging materials 006,Packaging materials,C,19700278.86234983,,,19700278.86234983,Stock value at risk of going obsolete,No use for 21 months
+Slow-moving,Packaging,Labels,BU18-RM-002,Labels - raw materials 002,Raw materials,C,18385893.042936992,,,18385893.042936992,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Beverages,Juice,BU13-PK-007,Juice - packaging materials 007,Packaging materials,C,15425221.170299454,,,15425221.170299454,Stock value at risk of going obsolete,No use for 14 months
+Slow-moving,Packaging,Cartons,BU16-SP-005,Cartons - spare parts 005,Spare parts,C,15013436.522994466,,,15013436.522994466,Stock value at risk of going obsolete,No use for 17 months
+Slow-moving,Beverages,Juice,BU13-PK-005,Juice - packaging materials 005,Packaging materials,C,12897992.494043415,,,12897992.494043415,Stock value at risk of going obsolete,No use for 20 months
+Slow-moving,Edible Oils & Fats,Cooking Fats,BU24-FG-008,Cooking Fats - finished goods 008,Finished goods,C,10369688.454485467,,365.0,10369688.454485467,Stock value at risk of going obsolete,No use for 21 months
+Slow-moving,Beverages,Bottled Water,BU14-RM-005,Bottled Water - raw materials 005,Raw materials,C,7940423.043930629,,,7940423.043930629,Stock value at risk of going obsolete,No use for 19 months
+Slow-moving,Beverages,Energy Drinks,BU15-RM-005,Energy Drinks - raw materials 005,Raw materials,C,3686164.5761780553,,,3686164.5761780553,Stock value at risk of going obsolete,No use for 23 months
+Slow-moving,Foods,Snacks,BU04-PK-001,Snacks - packaging materials 001,Packaging materials,C,1007493.9469227571,,,1007493.9469227571,Stock value at risk of going obsolete,No use for 13 months

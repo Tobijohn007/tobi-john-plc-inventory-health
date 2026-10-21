@@ -1,0 +1,985 @@
+item_id,item_name,business_unit,vertical,stock_type,uom,shelf_life_days
+BU01-FG-001,Pasta - finished goods 001,Pasta,Foods,Finished goods,kg,189.0
+BU01-FG-002,Pasta - finished goods 002,Pasta,Foods,Finished goods,kg,189.0
+BU01-FG-003,Pasta - finished goods 003,Pasta,Foods,Finished goods,kg,351.0
+BU01-FG-004,Pasta - finished goods 004,Pasta,Foods,Finished goods,kg,189.0
+BU01-FG-005,Pasta - finished goods 005,Pasta,Foods,Finished goods,kg,270.0
+BU01-FG-006,Pasta - finished goods 006,Pasta,Foods,Finished goods,kg,189.0
+BU01-FG-007,Pasta - finished goods 007,Pasta,Foods,Finished goods,kg,189.0
+BU01-RM-001,Pasta - raw materials 001,Pasta,Foods,Raw materials,kg,365.0
+BU01-RM-002,Pasta - raw materials 002,Pasta,Foods,Raw materials,kg,365.0
+BU01-RM-003,Pasta - raw materials 003,Pasta,Foods,Raw materials,kg,
+BU01-RM-004,Pasta - raw materials 004,Pasta,Foods,Raw materials,kg,
+BU01-RM-005,Pasta - raw materials 005,Pasta,Foods,Raw materials,kg,365.0
+BU01-RM-006,Pasta - raw materials 006,Pasta,Foods,Raw materials,kg,
+BU01-RM-007,Pasta - raw materials 007,Pasta,Foods,Raw materials,kg,
+BU01-RM-008,Pasta - raw materials 008,Pasta,Foods,Raw materials,kg,365.0
+BU01-RM-009,Pasta - raw materials 009,Pasta,Foods,Raw materials,kg,365.0
+BU01-RM-010,Pasta - raw materials 010,Pasta,Foods,Raw materials,kg,
+BU01-RM-011,Pasta - raw materials 011,Pasta,Foods,Raw materials,kg,
+BU01-RM-012,Pasta - raw materials 012,Pasta,Foods,Raw materials,kg,365.0
+BU01-PK-001,Pasta - packaging materials 001,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-002,Pasta - packaging materials 002,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-003,Pasta - packaging materials 003,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-004,Pasta - packaging materials 004,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-005,Pasta - packaging materials 005,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-006,Pasta - packaging materials 006,Pasta,Foods,Packaging materials,pcs,
+BU01-PK-007,Pasta - packaging materials 007,Pasta,Foods,Packaging materials,pcs,
+BU01-WP-001,Pasta - work in progress 001,Pasta,Foods,Work in progress,kg,
+BU01-WP-002,Pasta - work in progress 002,Pasta,Foods,Work in progress,kg,
+BU01-WP-003,Pasta - work in progress 003,Pasta,Foods,Work in progress,kg,
+BU01-SP-001,Pasta - spare parts 001,Pasta,Foods,Spare parts,pcs,
+BU01-SP-002,Pasta - spare parts 002,Pasta,Foods,Spare parts,pcs,
+BU01-SP-003,Pasta - spare parts 003,Pasta,Foods,Spare parts,pcs,
+BU01-SP-004,Pasta - spare parts 004,Pasta,Foods,Spare parts,pcs,
+BU01-SP-005,Pasta - spare parts 005,Pasta,Foods,Spare parts,pcs,
+BU01-SP-006,Pasta - spare parts 006,Pasta,Foods,Spare parts,pcs,
+BU01-SP-007,Pasta - spare parts 007,Pasta,Foods,Spare parts,pcs,
+BU02-FG-001,Noodles - finished goods 001,Noodles,Foods,Finished goods,kg,270.0
+BU02-FG-002,Noodles - finished goods 002,Noodles,Foods,Finished goods,kg,270.0
+BU02-FG-003,Noodles - finished goods 003,Noodles,Foods,Finished goods,kg,189.0
+BU02-FG-004,Noodles - finished goods 004,Noodles,Foods,Finished goods,kg,189.0
+BU02-FG-005,Noodles - finished goods 005,Noodles,Foods,Finished goods,kg,189.0
+BU02-FG-006,Noodles - finished goods 006,Noodles,Foods,Finished goods,kg,351.0
+BU02-FG-007,Noodles - finished goods 007,Noodles,Foods,Finished goods,kg,351.0
+BU02-RM-001,Noodles - raw materials 001,Noodles,Foods,Raw materials,kg,
+BU02-RM-002,Noodles - raw materials 002,Noodles,Foods,Raw materials,kg,
+BU02-RM-003,Noodles - raw materials 003,Noodles,Foods,Raw materials,kg,365.0
+BU02-RM-004,Noodles - raw materials 004,Noodles,Foods,Raw materials,kg,
+BU02-RM-005,Noodles - raw materials 005,Noodles,Foods,Raw materials,kg,365.0
+BU02-RM-006,Noodles - raw materials 006,Noodles,Foods,Raw materials,kg,
+BU02-RM-007,Noodles - raw materials 007,Noodles,Foods,Raw materials,kg,
+BU02-RM-008,Noodles - raw materials 008,Noodles,Foods,Raw materials,kg,365.0
+BU02-RM-009,Noodles - raw materials 009,Noodles,Foods,Raw materials,kg,365.0
+BU02-RM-010,Noodles - raw materials 010,Noodles,Foods,Raw materials,kg,
+BU02-RM-011,Noodles - raw materials 011,Noodles,Foods,Raw materials,kg,365.0
+BU02-RM-012,Noodles - raw materials 012,Noodles,Foods,Raw materials,kg,365.0
+BU02-PK-001,Noodles - packaging materials 001,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-002,Noodles - packaging materials 002,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-003,Noodles - packaging materials 003,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-004,Noodles - packaging materials 004,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-005,Noodles - packaging materials 005,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-006,Noodles - packaging materials 006,Noodles,Foods,Packaging materials,pcs,
+BU02-PK-007,Noodles - packaging materials 007,Noodles,Foods,Packaging materials,pcs,
+BU02-WP-001,Noodles - work in progress 001,Noodles,Foods,Work in progress,kg,
+BU02-WP-002,Noodles - work in progress 002,Noodles,Foods,Work in progress,kg,
+BU02-WP-003,Noodles - work in progress 003,Noodles,Foods,Work in progress,kg,
+BU02-SP-001,Noodles - spare parts 001,Noodles,Foods,Spare parts,pcs,
+BU02-SP-002,Noodles - spare parts 002,Noodles,Foods,Spare parts,pcs,
+BU02-SP-003,Noodles - spare parts 003,Noodles,Foods,Spare parts,pcs,
+BU02-SP-004,Noodles - spare parts 004,Noodles,Foods,Spare parts,pcs,
+BU02-SP-005,Noodles - spare parts 005,Noodles,Foods,Spare parts,pcs,
+BU02-SP-006,Noodles - spare parts 006,Noodles,Foods,Spare parts,pcs,
+BU02-SP-007,Noodles - spare parts 007,Noodles,Foods,Spare parts,pcs,
+BU03-FG-001,Biscuits - finished goods 001,Biscuits,Foods,Finished goods,kg,270.0
+BU03-FG-002,Biscuits - finished goods 002,Biscuits,Foods,Finished goods,kg,351.0
+BU03-FG-003,Biscuits - finished goods 003,Biscuits,Foods,Finished goods,kg,270.0
+BU03-FG-004,Biscuits - finished goods 004,Biscuits,Foods,Finished goods,kg,270.0
+BU03-FG-005,Biscuits - finished goods 005,Biscuits,Foods,Finished goods,kg,270.0
+BU03-FG-006,Biscuits - finished goods 006,Biscuits,Foods,Finished goods,kg,351.0
+BU03-FG-007,Biscuits - finished goods 007,Biscuits,Foods,Finished goods,kg,189.0
+BU03-FG-008,Biscuits - finished goods 008,Biscuits,Foods,Finished goods,kg,351.0
+BU03-RM-001,Biscuits - raw materials 001,Biscuits,Foods,Raw materials,kg,
+BU03-RM-002,Biscuits - raw materials 002,Biscuits,Foods,Raw materials,kg,365.0
+BU03-RM-003,Biscuits - raw materials 003,Biscuits,Foods,Raw materials,kg,
+BU03-RM-004,Biscuits - raw materials 004,Biscuits,Foods,Raw materials,kg,365.0
+BU03-RM-005,Biscuits - raw materials 005,Biscuits,Foods,Raw materials,kg,
+BU03-RM-006,Biscuits - raw materials 006,Biscuits,Foods,Raw materials,kg,
+BU03-RM-007,Biscuits - raw materials 007,Biscuits,Foods,Raw materials,kg,
+BU03-RM-008,Biscuits - raw materials 008,Biscuits,Foods,Raw materials,kg,
+BU03-RM-009,Biscuits - raw materials 009,Biscuits,Foods,Raw materials,kg,365.0
+BU03-RM-010,Biscuits - raw materials 010,Biscuits,Foods,Raw materials,kg,
+BU03-RM-011,Biscuits - raw materials 011,Biscuits,Foods,Raw materials,kg,365.0
+BU03-PK-001,Biscuits - packaging materials 001,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-002,Biscuits - packaging materials 002,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-003,Biscuits - packaging materials 003,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-004,Biscuits - packaging materials 004,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-005,Biscuits - packaging materials 005,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-006,Biscuits - packaging materials 006,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-007,Biscuits - packaging materials 007,Biscuits,Foods,Packaging materials,pcs,
+BU03-PK-008,Biscuits - packaging materials 008,Biscuits,Foods,Packaging materials,pcs,
+BU03-WP-001,Biscuits - work in progress 001,Biscuits,Foods,Work in progress,kg,
+BU03-WP-002,Biscuits - work in progress 002,Biscuits,Foods,Work in progress,kg,
+BU03-WP-003,Biscuits - work in progress 003,Biscuits,Foods,Work in progress,kg,
+BU03-SP-001,Biscuits - spare parts 001,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-002,Biscuits - spare parts 002,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-003,Biscuits - spare parts 003,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-004,Biscuits - spare parts 004,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-005,Biscuits - spare parts 005,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-006,Biscuits - spare parts 006,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-007,Biscuits - spare parts 007,Biscuits,Foods,Spare parts,pcs,
+BU03-SP-008,Biscuits - spare parts 008,Biscuits,Foods,Spare parts,pcs,
+BU04-FG-001,Snacks - finished goods 001,Snacks,Foods,Finished goods,kg,270.0
+BU04-FG-002,Snacks - finished goods 002,Snacks,Foods,Finished goods,kg,270.0
+BU04-FG-003,Snacks - finished goods 003,Snacks,Foods,Finished goods,kg,189.0
+BU04-FG-004,Snacks - finished goods 004,Snacks,Foods,Finished goods,kg,189.0
+BU04-FG-005,Snacks - finished goods 005,Snacks,Foods,Finished goods,kg,351.0
+BU04-FG-006,Snacks - finished goods 006,Snacks,Foods,Finished goods,kg,270.0
+BU04-FG-007,Snacks - finished goods 007,Snacks,Foods,Finished goods,kg,351.0
+BU04-FG-008,Snacks - finished goods 008,Snacks,Foods,Finished goods,kg,189.0
+BU04-RM-001,Snacks - raw materials 001,Snacks,Foods,Raw materials,kg,365.0
+BU04-RM-002,Snacks - raw materials 002,Snacks,Foods,Raw materials,kg,
+BU04-RM-003,Snacks - raw materials 003,Snacks,Foods,Raw materials,kg,365.0
+BU04-RM-004,Snacks - raw materials 004,Snacks,Foods,Raw materials,kg,
+BU04-RM-005,Snacks - raw materials 005,Snacks,Foods,Raw materials,kg,
+BU04-RM-006,Snacks - raw materials 006,Snacks,Foods,Raw materials,kg,365.0
+BU04-RM-007,Snacks - raw materials 007,Snacks,Foods,Raw materials,kg,
+BU04-RM-008,Snacks - raw materials 008,Snacks,Foods,Raw materials,kg,365.0
+BU04-RM-009,Snacks - raw materials 009,Snacks,Foods,Raw materials,kg,
+BU04-RM-010,Snacks - raw materials 010,Snacks,Foods,Raw materials,kg,
+BU04-RM-011,Snacks - raw materials 011,Snacks,Foods,Raw materials,kg,365.0
+BU04-RM-012,Snacks - raw materials 012,Snacks,Foods,Raw materials,kg,
+BU04-RM-013,Snacks - raw materials 013,Snacks,Foods,Raw materials,kg,
+BU04-PK-001,Snacks - packaging materials 001,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-002,Snacks - packaging materials 002,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-003,Snacks - packaging materials 003,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-004,Snacks - packaging materials 004,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-005,Snacks - packaging materials 005,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-006,Snacks - packaging materials 006,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-007,Snacks - packaging materials 007,Snacks,Foods,Packaging materials,pcs,
+BU04-PK-008,Snacks - packaging materials 008,Snacks,Foods,Packaging materials,pcs,
+BU04-WP-001,Snacks - work in progress 001,Snacks,Foods,Work in progress,kg,
+BU04-WP-002,Snacks - work in progress 002,Snacks,Foods,Work in progress,kg,
+BU04-WP-003,Snacks - work in progress 003,Snacks,Foods,Work in progress,kg,
+BU04-SP-001,Snacks - spare parts 001,Snacks,Foods,Spare parts,pcs,
+BU04-SP-002,Snacks - spare parts 002,Snacks,Foods,Spare parts,pcs,
+BU04-SP-003,Snacks - spare parts 003,Snacks,Foods,Spare parts,pcs,
+BU04-SP-004,Snacks - spare parts 004,Snacks,Foods,Spare parts,pcs,
+BU04-SP-005,Snacks - spare parts 005,Snacks,Foods,Spare parts,pcs,
+BU04-SP-006,Snacks - spare parts 006,Snacks,Foods,Spare parts,pcs,
+BU04-SP-007,Snacks - spare parts 007,Snacks,Foods,Spare parts,pcs,
+BU04-SP-008,Snacks - spare parts 008,Snacks,Foods,Spare parts,pcs,
+BU05-FG-001,Breakfast Cereals - finished goods 001,Breakfast Cereals,Foods,Finished goods,kg,351.0
+BU05-FG-002,Breakfast Cereals - finished goods 002,Breakfast Cereals,Foods,Finished goods,kg,351.0
+BU05-FG-003,Breakfast Cereals - finished goods 003,Breakfast Cereals,Foods,Finished goods,kg,270.0
+BU05-FG-004,Breakfast Cereals - finished goods 004,Breakfast Cereals,Foods,Finished goods,kg,351.0
+BU05-FG-005,Breakfast Cereals - finished goods 005,Breakfast Cereals,Foods,Finished goods,kg,270.0
+BU05-FG-006,Breakfast Cereals - finished goods 006,Breakfast Cereals,Foods,Finished goods,kg,189.0
+BU05-FG-007,Breakfast Cereals - finished goods 007,Breakfast Cereals,Foods,Finished goods,kg,270.0
+BU05-FG-008,Breakfast Cereals - finished goods 008,Breakfast Cereals,Foods,Finished goods,kg,189.0
+BU05-RM-001,Breakfast Cereals - raw materials 001,Breakfast Cereals,Foods,Raw materials,kg,365.0
+BU05-RM-002,Breakfast Cereals - raw materials 002,Breakfast Cereals,Foods,Raw materials,kg,365.0
+BU05-RM-003,Breakfast Cereals - raw materials 003,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-004,Breakfast Cereals - raw materials 004,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-005,Breakfast Cereals - raw materials 005,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-006,Breakfast Cereals - raw materials 006,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-007,Breakfast Cereals - raw materials 007,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-008,Breakfast Cereals - raw materials 008,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-009,Breakfast Cereals - raw materials 009,Breakfast Cereals,Foods,Raw materials,kg,365.0
+BU05-RM-010,Breakfast Cereals - raw materials 010,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-011,Breakfast Cereals - raw materials 011,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-012,Breakfast Cereals - raw materials 012,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-RM-013,Breakfast Cereals - raw materials 013,Breakfast Cereals,Foods,Raw materials,kg,
+BU05-PK-001,Breakfast Cereals - packaging materials 001,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-002,Breakfast Cereals - packaging materials 002,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-003,Breakfast Cereals - packaging materials 003,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-004,Breakfast Cereals - packaging materials 004,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-005,Breakfast Cereals - packaging materials 005,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-006,Breakfast Cereals - packaging materials 006,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-007,Breakfast Cereals - packaging materials 007,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-PK-008,Breakfast Cereals - packaging materials 008,Breakfast Cereals,Foods,Packaging materials,pcs,
+BU05-WP-001,Breakfast Cereals - work in progress 001,Breakfast Cereals,Foods,Work in progress,kg,
+BU05-WP-002,Breakfast Cereals - work in progress 002,Breakfast Cereals,Foods,Work in progress,kg,
+BU05-WP-003,Breakfast Cereals - work in progress 003,Breakfast Cereals,Foods,Work in progress,kg,
+BU05-SP-001,Breakfast Cereals - spare parts 001,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-002,Breakfast Cereals - spare parts 002,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-003,Breakfast Cereals - spare parts 003,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-004,Breakfast Cereals - spare parts 004,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-005,Breakfast Cereals - spare parts 005,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-006,Breakfast Cereals - spare parts 006,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-007,Breakfast Cereals - spare parts 007,Breakfast Cereals,Foods,Spare parts,pcs,
+BU05-SP-008,Breakfast Cereals - spare parts 008,Breakfast Cereals,Foods,Spare parts,pcs,
+BU06-FG-001,Premium Flour - finished goods 001,Premium Flour,Flour & Milling,Finished goods,kg,234.0
+BU06-FG-002,Premium Flour - finished goods 002,Premium Flour,Flour & Milling,Finished goods,kg,126.0
+BU06-FG-003,Premium Flour - finished goods 003,Premium Flour,Flour & Milling,Finished goods,kg,234.0
+BU06-FG-004,Premium Flour - finished goods 004,Premium Flour,Flour & Milling,Finished goods,kg,180.0
+BU06-FG-005,Premium Flour - finished goods 005,Premium Flour,Flour & Milling,Finished goods,kg,180.0
+BU06-FG-006,Premium Flour - finished goods 006,Premium Flour,Flour & Milling,Finished goods,kg,180.0
+BU06-FG-007,Premium Flour - finished goods 007,Premium Flour,Flour & Milling,Finished goods,kg,234.0
+BU06-FG-008,Premium Flour - finished goods 008,Premium Flour,Flour & Milling,Finished goods,kg,234.0
+BU06-RM-001,Premium Flour - raw materials 001,Premium Flour,Flour & Milling,Raw materials,kg,365.0
+BU06-RM-002,Premium Flour - raw materials 002,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-003,Premium Flour - raw materials 003,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-004,Premium Flour - raw materials 004,Premium Flour,Flour & Milling,Raw materials,kg,365.0
+BU06-RM-005,Premium Flour - raw materials 005,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-006,Premium Flour - raw materials 006,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-007,Premium Flour - raw materials 007,Premium Flour,Flour & Milling,Raw materials,kg,365.0
+BU06-RM-008,Premium Flour - raw materials 008,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-009,Premium Flour - raw materials 009,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-010,Premium Flour - raw materials 010,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-011,Premium Flour - raw materials 011,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-012,Premium Flour - raw materials 012,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-RM-013,Premium Flour - raw materials 013,Premium Flour,Flour & Milling,Raw materials,kg,365.0
+BU06-RM-014,Premium Flour - raw materials 014,Premium Flour,Flour & Milling,Raw materials,kg,
+BU06-PK-001,Premium Flour - packaging materials 001,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-002,Premium Flour - packaging materials 002,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-003,Premium Flour - packaging materials 003,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-004,Premium Flour - packaging materials 004,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-005,Premium Flour - packaging materials 005,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-006,Premium Flour - packaging materials 006,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-007,Premium Flour - packaging materials 007,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-PK-008,Premium Flour - packaging materials 008,Premium Flour,Flour & Milling,Packaging materials,pcs,
+BU06-WP-001,Premium Flour - work in progress 001,Premium Flour,Flour & Milling,Work in progress,kg,
+BU06-WP-002,Premium Flour - work in progress 002,Premium Flour,Flour & Milling,Work in progress,kg,
+BU06-WP-003,Premium Flour - work in progress 003,Premium Flour,Flour & Milling,Work in progress,kg,
+BU06-SP-001,Premium Flour - spare parts 001,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-002,Premium Flour - spare parts 002,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-003,Premium Flour - spare parts 003,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-004,Premium Flour - spare parts 004,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-005,Premium Flour - spare parts 005,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-006,Premium Flour - spare parts 006,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-007,Premium Flour - spare parts 007,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU06-SP-008,Premium Flour - spare parts 008,Premium Flour,Flour & Milling,Spare parts,pcs,
+BU07-FG-001,Bakery Flour - finished goods 001,Bakery Flour,Flour & Milling,Finished goods,kg,234.0
+BU07-FG-002,Bakery Flour - finished goods 002,Bakery Flour,Flour & Milling,Finished goods,kg,180.0
+BU07-FG-003,Bakery Flour - finished goods 003,Bakery Flour,Flour & Milling,Finished goods,kg,234.0
+BU07-FG-004,Bakery Flour - finished goods 004,Bakery Flour,Flour & Milling,Finished goods,kg,126.0
+BU07-FG-005,Bakery Flour - finished goods 005,Bakery Flour,Flour & Milling,Finished goods,kg,180.0
+BU07-FG-006,Bakery Flour - finished goods 006,Bakery Flour,Flour & Milling,Finished goods,kg,234.0
+BU07-FG-007,Bakery Flour - finished goods 007,Bakery Flour,Flour & Milling,Finished goods,kg,234.0
+BU07-FG-008,Bakery Flour - finished goods 008,Bakery Flour,Flour & Milling,Finished goods,kg,180.0
+BU07-RM-001,Bakery Flour - raw materials 001,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-002,Bakery Flour - raw materials 002,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-003,Bakery Flour - raw materials 003,Bakery Flour,Flour & Milling,Raw materials,kg,365.0
+BU07-RM-004,Bakery Flour - raw materials 004,Bakery Flour,Flour & Milling,Raw materials,kg,365.0
+BU07-RM-005,Bakery Flour - raw materials 005,Bakery Flour,Flour & Milling,Raw materials,kg,365.0
+BU07-RM-006,Bakery Flour - raw materials 006,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-007,Bakery Flour - raw materials 007,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-008,Bakery Flour - raw materials 008,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-009,Bakery Flour - raw materials 009,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-010,Bakery Flour - raw materials 010,Bakery Flour,Flour & Milling,Raw materials,kg,365.0
+BU07-RM-011,Bakery Flour - raw materials 011,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-012,Bakery Flour - raw materials 012,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-013,Bakery Flour - raw materials 013,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-014,Bakery Flour - raw materials 014,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-RM-015,Bakery Flour - raw materials 015,Bakery Flour,Flour & Milling,Raw materials,kg,
+BU07-PK-001,Bakery Flour - packaging materials 001,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-002,Bakery Flour - packaging materials 002,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-003,Bakery Flour - packaging materials 003,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-004,Bakery Flour - packaging materials 004,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-005,Bakery Flour - packaging materials 005,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-006,Bakery Flour - packaging materials 006,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-007,Bakery Flour - packaging materials 007,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-PK-008,Bakery Flour - packaging materials 008,Bakery Flour,Flour & Milling,Packaging materials,pcs,
+BU07-WP-001,Bakery Flour - work in progress 001,Bakery Flour,Flour & Milling,Work in progress,kg,
+BU07-WP-002,Bakery Flour - work in progress 002,Bakery Flour,Flour & Milling,Work in progress,kg,
+BU07-WP-003,Bakery Flour - work in progress 003,Bakery Flour,Flour & Milling,Work in progress,kg,
+BU07-SP-001,Bakery Flour - spare parts 001,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-002,Bakery Flour - spare parts 002,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-003,Bakery Flour - spare parts 003,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-004,Bakery Flour - spare parts 004,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-005,Bakery Flour - spare parts 005,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-006,Bakery Flour - spare parts 006,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-007,Bakery Flour - spare parts 007,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU07-SP-008,Bakery Flour - spare parts 008,Bakery Flour,Flour & Milling,Spare parts,pcs,
+BU08-FG-001,Semolina - finished goods 001,Semolina,Flour & Milling,Finished goods,kg,126.0
+BU08-FG-002,Semolina - finished goods 002,Semolina,Flour & Milling,Finished goods,kg,180.0
+BU08-FG-003,Semolina - finished goods 003,Semolina,Flour & Milling,Finished goods,kg,234.0
+BU08-FG-004,Semolina - finished goods 004,Semolina,Flour & Milling,Finished goods,kg,180.0
+BU08-FG-005,Semolina - finished goods 005,Semolina,Flour & Milling,Finished goods,kg,234.0
+BU08-FG-006,Semolina - finished goods 006,Semolina,Flour & Milling,Finished goods,kg,180.0
+BU08-FG-007,Semolina - finished goods 007,Semolina,Flour & Milling,Finished goods,kg,180.0
+BU08-FG-008,Semolina - finished goods 008,Semolina,Flour & Milling,Finished goods,kg,126.0
+BU08-RM-001,Semolina - raw materials 001,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-002,Semolina - raw materials 002,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-003,Semolina - raw materials 003,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-004,Semolina - raw materials 004,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-005,Semolina - raw materials 005,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-006,Semolina - raw materials 006,Semolina,Flour & Milling,Raw materials,kg,365.0
+BU08-RM-007,Semolina - raw materials 007,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-008,Semolina - raw materials 008,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-009,Semolina - raw materials 009,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-010,Semolina - raw materials 010,Semolina,Flour & Milling,Raw materials,kg,365.0
+BU08-RM-011,Semolina - raw materials 011,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-012,Semolina - raw materials 012,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-013,Semolina - raw materials 013,Semolina,Flour & Milling,Raw materials,kg,
+BU08-RM-014,Semolina - raw materials 014,Semolina,Flour & Milling,Raw materials,kg,365.0
+BU08-PK-001,Semolina - packaging materials 001,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-002,Semolina - packaging materials 002,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-003,Semolina - packaging materials 003,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-004,Semolina - packaging materials 004,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-005,Semolina - packaging materials 005,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-006,Semolina - packaging materials 006,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-007,Semolina - packaging materials 007,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-PK-008,Semolina - packaging materials 008,Semolina,Flour & Milling,Packaging materials,pcs,
+BU08-WP-001,Semolina - work in progress 001,Semolina,Flour & Milling,Work in progress,kg,
+BU08-WP-002,Semolina - work in progress 002,Semolina,Flour & Milling,Work in progress,kg,
+BU08-WP-003,Semolina - work in progress 003,Semolina,Flour & Milling,Work in progress,kg,
+BU08-SP-001,Semolina - spare parts 001,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-002,Semolina - spare parts 002,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-003,Semolina - spare parts 003,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-004,Semolina - spare parts 004,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-005,Semolina - spare parts 005,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-006,Semolina - spare parts 006,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-007,Semolina - spare parts 007,Semolina,Flour & Milling,Spare parts,pcs,
+BU08-SP-008,Semolina - spare parts 008,Semolina,Flour & Milling,Spare parts,pcs,
+BU09-FG-001,Bran & Co-products - finished goods 001,Bran & Co-products,Flour & Milling,Finished goods,kg,180.0
+BU09-FG-002,Bran & Co-products - finished goods 002,Bran & Co-products,Flour & Milling,Finished goods,kg,180.0
+BU09-FG-003,Bran & Co-products - finished goods 003,Bran & Co-products,Flour & Milling,Finished goods,kg,180.0
+BU09-FG-004,Bran & Co-products - finished goods 004,Bran & Co-products,Flour & Milling,Finished goods,kg,126.0
+BU09-FG-005,Bran & Co-products - finished goods 005,Bran & Co-products,Flour & Milling,Finished goods,kg,126.0
+BU09-FG-006,Bran & Co-products - finished goods 006,Bran & Co-products,Flour & Milling,Finished goods,kg,126.0
+BU09-FG-007,Bran & Co-products - finished goods 007,Bran & Co-products,Flour & Milling,Finished goods,kg,126.0
+BU09-FG-008,Bran & Co-products - finished goods 008,Bran & Co-products,Flour & Milling,Finished goods,kg,126.0
+BU09-RM-001,Bran & Co-products - raw materials 001,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-002,Bran & Co-products - raw materials 002,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-003,Bran & Co-products - raw materials 003,Bran & Co-products,Flour & Milling,Raw materials,kg,365.0
+BU09-RM-004,Bran & Co-products - raw materials 004,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-005,Bran & Co-products - raw materials 005,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-006,Bran & Co-products - raw materials 006,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-007,Bran & Co-products - raw materials 007,Bran & Co-products,Flour & Milling,Raw materials,kg,365.0
+BU09-RM-008,Bran & Co-products - raw materials 008,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-009,Bran & Co-products - raw materials 009,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-010,Bran & Co-products - raw materials 010,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-RM-011,Bran & Co-products - raw materials 011,Bran & Co-products,Flour & Milling,Raw materials,kg,
+BU09-PK-001,Bran & Co-products - packaging materials 001,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-002,Bran & Co-products - packaging materials 002,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-003,Bran & Co-products - packaging materials 003,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-004,Bran & Co-products - packaging materials 004,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-005,Bran & Co-products - packaging materials 005,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-006,Bran & Co-products - packaging materials 006,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-007,Bran & Co-products - packaging materials 007,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-PK-008,Bran & Co-products - packaging materials 008,Bran & Co-products,Flour & Milling,Packaging materials,pcs,
+BU09-WP-001,Bran & Co-products - work in progress 001,Bran & Co-products,Flour & Milling,Work in progress,kg,
+BU09-WP-002,Bran & Co-products - work in progress 002,Bran & Co-products,Flour & Milling,Work in progress,kg,
+BU09-WP-003,Bran & Co-products - work in progress 003,Bran & Co-products,Flour & Milling,Work in progress,kg,
+BU09-SP-001,Bran & Co-products - spare parts 001,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-002,Bran & Co-products - spare parts 002,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-003,Bran & Co-products - spare parts 003,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-004,Bran & Co-products - spare parts 004,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-005,Bran & Co-products - spare parts 005,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-006,Bran & Co-products - spare parts 006,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-007,Bran & Co-products - spare parts 007,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU09-SP-008,Bran & Co-products - spare parts 008,Bran & Co-products,Flour & Milling,Spare parts,pcs,
+BU10-FG-001,Animal Feeds - finished goods 001,Animal Feeds,Agro,Finished goods,kg,105.0
+BU10-FG-002,Animal Feeds - finished goods 002,Animal Feeds,Agro,Finished goods,kg,150.0
+BU10-FG-003,Animal Feeds - finished goods 003,Animal Feeds,Agro,Finished goods,kg,105.0
+BU10-FG-004,Animal Feeds - finished goods 004,Animal Feeds,Agro,Finished goods,kg,195.0
+BU10-FG-005,Animal Feeds - finished goods 005,Animal Feeds,Agro,Finished goods,kg,195.0
+BU10-FG-006,Animal Feeds - finished goods 006,Animal Feeds,Agro,Finished goods,kg,150.0
+BU10-FG-007,Animal Feeds - finished goods 007,Animal Feeds,Agro,Finished goods,kg,150.0
+BU10-FG-008,Animal Feeds - finished goods 008,Animal Feeds,Agro,Finished goods,kg,195.0
+BU10-RM-001,Animal Feeds - raw materials 001,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-002,Animal Feeds - raw materials 002,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-003,Animal Feeds - raw materials 003,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-RM-004,Animal Feeds - raw materials 004,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-RM-005,Animal Feeds - raw materials 005,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-RM-006,Animal Feeds - raw materials 006,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-007,Animal Feeds - raw materials 007,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-008,Animal Feeds - raw materials 008,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-009,Animal Feeds - raw materials 009,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-010,Animal Feeds - raw materials 010,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-011,Animal Feeds - raw materials 011,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-RM-012,Animal Feeds - raw materials 012,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-RM-013,Animal Feeds - raw materials 013,Animal Feeds,Agro,Raw materials,kg,
+BU10-RM-014,Animal Feeds - raw materials 014,Animal Feeds,Agro,Raw materials,kg,365.0
+BU10-PK-001,Animal Feeds - packaging materials 001,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-002,Animal Feeds - packaging materials 002,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-003,Animal Feeds - packaging materials 003,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-004,Animal Feeds - packaging materials 004,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-005,Animal Feeds - packaging materials 005,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-006,Animal Feeds - packaging materials 006,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-007,Animal Feeds - packaging materials 007,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-PK-008,Animal Feeds - packaging materials 008,Animal Feeds,Agro,Packaging materials,pcs,
+BU10-WP-001,Animal Feeds - work in progress 001,Animal Feeds,Agro,Work in progress,kg,
+BU10-WP-002,Animal Feeds - work in progress 002,Animal Feeds,Agro,Work in progress,kg,
+BU10-WP-003,Animal Feeds - work in progress 003,Animal Feeds,Agro,Work in progress,kg,
+BU10-SP-001,Animal Feeds - spare parts 001,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-002,Animal Feeds - spare parts 002,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-003,Animal Feeds - spare parts 003,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-004,Animal Feeds - spare parts 004,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-005,Animal Feeds - spare parts 005,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-006,Animal Feeds - spare parts 006,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-007,Animal Feeds - spare parts 007,Animal Feeds,Agro,Spare parts,pcs,
+BU10-SP-008,Animal Feeds - spare parts 008,Animal Feeds,Agro,Spare parts,pcs,
+BU11-FG-001,Fertilizer - finished goods 001,Fertilizer,Agro,Finished goods,kg,195.0
+BU11-FG-002,Fertilizer - finished goods 002,Fertilizer,Agro,Finished goods,kg,105.0
+BU11-FG-003,Fertilizer - finished goods 003,Fertilizer,Agro,Finished goods,kg,105.0
+BU11-FG-004,Fertilizer - finished goods 004,Fertilizer,Agro,Finished goods,kg,150.0
+BU11-FG-005,Fertilizer - finished goods 005,Fertilizer,Agro,Finished goods,kg,105.0
+BU11-FG-006,Fertilizer - finished goods 006,Fertilizer,Agro,Finished goods,kg,195.0
+BU11-FG-007,Fertilizer - finished goods 007,Fertilizer,Agro,Finished goods,kg,105.0
+BU11-FG-008,Fertilizer - finished goods 008,Fertilizer,Agro,Finished goods,kg,105.0
+BU11-RM-001,Fertilizer - raw materials 001,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-002,Fertilizer - raw materials 002,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-003,Fertilizer - raw materials 003,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-004,Fertilizer - raw materials 004,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-005,Fertilizer - raw materials 005,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-006,Fertilizer - raw materials 006,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-007,Fertilizer - raw materials 007,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-008,Fertilizer - raw materials 008,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-009,Fertilizer - raw materials 009,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-010,Fertilizer - raw materials 010,Fertilizer,Agro,Raw materials,kg,365.0
+BU11-RM-011,Fertilizer - raw materials 011,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-012,Fertilizer - raw materials 012,Fertilizer,Agro,Raw materials,kg,365.0
+BU11-RM-013,Fertilizer - raw materials 013,Fertilizer,Agro,Raw materials,kg,365.0
+BU11-RM-014,Fertilizer - raw materials 014,Fertilizer,Agro,Raw materials,kg,
+BU11-RM-015,Fertilizer - raw materials 015,Fertilizer,Agro,Raw materials,kg,
+BU11-PK-001,Fertilizer - packaging materials 001,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-002,Fertilizer - packaging materials 002,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-003,Fertilizer - packaging materials 003,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-004,Fertilizer - packaging materials 004,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-005,Fertilizer - packaging materials 005,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-006,Fertilizer - packaging materials 006,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-007,Fertilizer - packaging materials 007,Fertilizer,Agro,Packaging materials,pcs,
+BU11-PK-008,Fertilizer - packaging materials 008,Fertilizer,Agro,Packaging materials,pcs,
+BU11-WP-001,Fertilizer - work in progress 001,Fertilizer,Agro,Work in progress,kg,
+BU11-WP-002,Fertilizer - work in progress 002,Fertilizer,Agro,Work in progress,kg,
+BU11-WP-003,Fertilizer - work in progress 003,Fertilizer,Agro,Work in progress,kg,
+BU11-SP-001,Fertilizer - spare parts 001,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-002,Fertilizer - spare parts 002,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-003,Fertilizer - spare parts 003,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-004,Fertilizer - spare parts 004,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-005,Fertilizer - spare parts 005,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-006,Fertilizer - spare parts 006,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-007,Fertilizer - spare parts 007,Fertilizer,Agro,Spare parts,pcs,
+BU11-SP-008,Fertilizer - spare parts 008,Fertilizer,Agro,Spare parts,pcs,
+BU12-FG-001,Soft Drinks - finished goods 001,Soft Drinks,Beverages,Finished goods,kg,351.0
+BU12-FG-002,Soft Drinks - finished goods 002,Soft Drinks,Beverages,Finished goods,kg,270.0
+BU12-FG-003,Soft Drinks - finished goods 003,Soft Drinks,Beverages,Finished goods,kg,270.0
+BU12-FG-004,Soft Drinks - finished goods 004,Soft Drinks,Beverages,Finished goods,kg,270.0
+BU12-FG-005,Soft Drinks - finished goods 005,Soft Drinks,Beverages,Finished goods,kg,351.0
+BU12-FG-006,Soft Drinks - finished goods 006,Soft Drinks,Beverages,Finished goods,kg,189.0
+BU12-FG-007,Soft Drinks - finished goods 007,Soft Drinks,Beverages,Finished goods,kg,189.0
+BU12-FG-008,Soft Drinks - finished goods 008,Soft Drinks,Beverages,Finished goods,kg,189.0
+BU12-RM-001,Soft Drinks - raw materials 001,Soft Drinks,Beverages,Raw materials,kg,365.0
+BU12-RM-002,Soft Drinks - raw materials 002,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-003,Soft Drinks - raw materials 003,Soft Drinks,Beverages,Raw materials,kg,365.0
+BU12-RM-004,Soft Drinks - raw materials 004,Soft Drinks,Beverages,Raw materials,kg,365.0
+BU12-RM-005,Soft Drinks - raw materials 005,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-006,Soft Drinks - raw materials 006,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-007,Soft Drinks - raw materials 007,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-008,Soft Drinks - raw materials 008,Soft Drinks,Beverages,Raw materials,kg,365.0
+BU12-RM-009,Soft Drinks - raw materials 009,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-010,Soft Drinks - raw materials 010,Soft Drinks,Beverages,Raw materials,kg,
+BU12-RM-011,Soft Drinks - raw materials 011,Soft Drinks,Beverages,Raw materials,kg,
+BU12-PK-001,Soft Drinks - packaging materials 001,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-002,Soft Drinks - packaging materials 002,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-003,Soft Drinks - packaging materials 003,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-004,Soft Drinks - packaging materials 004,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-005,Soft Drinks - packaging materials 005,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-006,Soft Drinks - packaging materials 006,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-007,Soft Drinks - packaging materials 007,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-PK-008,Soft Drinks - packaging materials 008,Soft Drinks,Beverages,Packaging materials,pcs,
+BU12-WP-001,Soft Drinks - work in progress 001,Soft Drinks,Beverages,Work in progress,kg,
+BU12-WP-002,Soft Drinks - work in progress 002,Soft Drinks,Beverages,Work in progress,kg,
+BU12-WP-003,Soft Drinks - work in progress 003,Soft Drinks,Beverages,Work in progress,kg,
+BU12-SP-001,Soft Drinks - spare parts 001,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-002,Soft Drinks - spare parts 002,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-003,Soft Drinks - spare parts 003,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-004,Soft Drinks - spare parts 004,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-005,Soft Drinks - spare parts 005,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-006,Soft Drinks - spare parts 006,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-007,Soft Drinks - spare parts 007,Soft Drinks,Beverages,Spare parts,pcs,
+BU12-SP-008,Soft Drinks - spare parts 008,Soft Drinks,Beverages,Spare parts,pcs,
+BU13-FG-001,Juice - finished goods 001,Juice,Beverages,Finished goods,kg,351.0
+BU13-FG-002,Juice - finished goods 002,Juice,Beverages,Finished goods,kg,351.0
+BU13-FG-003,Juice - finished goods 003,Juice,Beverages,Finished goods,kg,189.0
+BU13-FG-004,Juice - finished goods 004,Juice,Beverages,Finished goods,kg,351.0
+BU13-FG-005,Juice - finished goods 005,Juice,Beverages,Finished goods,kg,270.0
+BU13-FG-006,Juice - finished goods 006,Juice,Beverages,Finished goods,kg,270.0
+BU13-FG-007,Juice - finished goods 007,Juice,Beverages,Finished goods,kg,189.0
+BU13-RM-001,Juice - raw materials 001,Juice,Beverages,Raw materials,kg,
+BU13-RM-002,Juice - raw materials 002,Juice,Beverages,Raw materials,kg,365.0
+BU13-RM-003,Juice - raw materials 003,Juice,Beverages,Raw materials,kg,
+BU13-RM-004,Juice - raw materials 004,Juice,Beverages,Raw materials,kg,
+BU13-RM-005,Juice - raw materials 005,Juice,Beverages,Raw materials,kg,365.0
+BU13-RM-006,Juice - raw materials 006,Juice,Beverages,Raw materials,kg,
+BU13-RM-007,Juice - raw materials 007,Juice,Beverages,Raw materials,kg,
+BU13-RM-008,Juice - raw materials 008,Juice,Beverages,Raw materials,kg,
+BU13-RM-009,Juice - raw materials 009,Juice,Beverages,Raw materials,kg,
+BU13-RM-010,Juice - raw materials 010,Juice,Beverages,Raw materials,kg,365.0
+BU13-RM-011,Juice - raw materials 011,Juice,Beverages,Raw materials,kg,365.0
+BU13-RM-012,Juice - raw materials 012,Juice,Beverages,Raw materials,kg,
+BU13-PK-001,Juice - packaging materials 001,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-002,Juice - packaging materials 002,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-003,Juice - packaging materials 003,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-004,Juice - packaging materials 004,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-005,Juice - packaging materials 005,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-006,Juice - packaging materials 006,Juice,Beverages,Packaging materials,pcs,
+BU13-PK-007,Juice - packaging materials 007,Juice,Beverages,Packaging materials,pcs,
+BU13-WP-001,Juice - work in progress 001,Juice,Beverages,Work in progress,kg,
+BU13-WP-002,Juice - work in progress 002,Juice,Beverages,Work in progress,kg,
+BU13-WP-003,Juice - work in progress 003,Juice,Beverages,Work in progress,kg,
+BU13-SP-001,Juice - spare parts 001,Juice,Beverages,Spare parts,pcs,
+BU13-SP-002,Juice - spare parts 002,Juice,Beverages,Spare parts,pcs,
+BU13-SP-003,Juice - spare parts 003,Juice,Beverages,Spare parts,pcs,
+BU13-SP-004,Juice - spare parts 004,Juice,Beverages,Spare parts,pcs,
+BU13-SP-005,Juice - spare parts 005,Juice,Beverages,Spare parts,pcs,
+BU13-SP-006,Juice - spare parts 006,Juice,Beverages,Spare parts,pcs,
+BU13-SP-007,Juice - spare parts 007,Juice,Beverages,Spare parts,pcs,
+BU14-FG-001,Bottled Water - finished goods 001,Bottled Water,Beverages,Finished goods,kg,351.0
+BU14-FG-002,Bottled Water - finished goods 002,Bottled Water,Beverages,Finished goods,kg,270.0
+BU14-FG-003,Bottled Water - finished goods 003,Bottled Water,Beverages,Finished goods,kg,189.0
+BU14-FG-004,Bottled Water - finished goods 004,Bottled Water,Beverages,Finished goods,kg,189.0
+BU14-FG-005,Bottled Water - finished goods 005,Bottled Water,Beverages,Finished goods,kg,189.0
+BU14-FG-006,Bottled Water - finished goods 006,Bottled Water,Beverages,Finished goods,kg,351.0
+BU14-FG-007,Bottled Water - finished goods 007,Bottled Water,Beverages,Finished goods,kg,270.0
+BU14-RM-001,Bottled Water - raw materials 001,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-002,Bottled Water - raw materials 002,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-003,Bottled Water - raw materials 003,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-004,Bottled Water - raw materials 004,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-005,Bottled Water - raw materials 005,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-006,Bottled Water - raw materials 006,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-007,Bottled Water - raw materials 007,Bottled Water,Beverages,Raw materials,kg,365.0
+BU14-RM-008,Bottled Water - raw materials 008,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-009,Bottled Water - raw materials 009,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-010,Bottled Water - raw materials 010,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-011,Bottled Water - raw materials 011,Bottled Water,Beverages,Raw materials,kg,
+BU14-RM-012,Bottled Water - raw materials 012,Bottled Water,Beverages,Raw materials,kg,
+BU14-PK-001,Bottled Water - packaging materials 001,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-002,Bottled Water - packaging materials 002,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-003,Bottled Water - packaging materials 003,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-004,Bottled Water - packaging materials 004,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-005,Bottled Water - packaging materials 005,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-006,Bottled Water - packaging materials 006,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-PK-007,Bottled Water - packaging materials 007,Bottled Water,Beverages,Packaging materials,pcs,
+BU14-WP-001,Bottled Water - work in progress 001,Bottled Water,Beverages,Work in progress,kg,
+BU14-WP-002,Bottled Water - work in progress 002,Bottled Water,Beverages,Work in progress,kg,
+BU14-WP-003,Bottled Water - work in progress 003,Bottled Water,Beverages,Work in progress,kg,
+BU14-SP-001,Bottled Water - spare parts 001,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-002,Bottled Water - spare parts 002,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-003,Bottled Water - spare parts 003,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-004,Bottled Water - spare parts 004,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-005,Bottled Water - spare parts 005,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-006,Bottled Water - spare parts 006,Bottled Water,Beverages,Spare parts,pcs,
+BU14-SP-007,Bottled Water - spare parts 007,Bottled Water,Beverages,Spare parts,pcs,
+BU15-FG-001,Energy Drinks - finished goods 001,Energy Drinks,Beverages,Finished goods,kg,351.0
+BU15-FG-002,Energy Drinks - finished goods 002,Energy Drinks,Beverages,Finished goods,kg,189.0
+BU15-FG-003,Energy Drinks - finished goods 003,Energy Drinks,Beverages,Finished goods,kg,189.0
+BU15-FG-004,Energy Drinks - finished goods 004,Energy Drinks,Beverages,Finished goods,kg,189.0
+BU15-FG-005,Energy Drinks - finished goods 005,Energy Drinks,Beverages,Finished goods,kg,189.0
+BU15-FG-006,Energy Drinks - finished goods 006,Energy Drinks,Beverages,Finished goods,kg,189.0
+BU15-FG-007,Energy Drinks - finished goods 007,Energy Drinks,Beverages,Finished goods,kg,270.0
+BU15-RM-001,Energy Drinks - raw materials 001,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-002,Energy Drinks - raw materials 002,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-003,Energy Drinks - raw materials 003,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-004,Energy Drinks - raw materials 004,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-005,Energy Drinks - raw materials 005,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-006,Energy Drinks - raw materials 006,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-007,Energy Drinks - raw materials 007,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-008,Energy Drinks - raw materials 008,Energy Drinks,Beverages,Raw materials,kg,365.0
+BU15-RM-009,Energy Drinks - raw materials 009,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-010,Energy Drinks - raw materials 010,Energy Drinks,Beverages,Raw materials,kg,365.0
+BU15-RM-011,Energy Drinks - raw materials 011,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-012,Energy Drinks - raw materials 012,Energy Drinks,Beverages,Raw materials,kg,
+BU15-RM-013,Energy Drinks - raw materials 013,Energy Drinks,Beverages,Raw materials,kg,
+BU15-PK-001,Energy Drinks - packaging materials 001,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-002,Energy Drinks - packaging materials 002,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-003,Energy Drinks - packaging materials 003,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-004,Energy Drinks - packaging materials 004,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-005,Energy Drinks - packaging materials 005,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-006,Energy Drinks - packaging materials 006,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-PK-007,Energy Drinks - packaging materials 007,Energy Drinks,Beverages,Packaging materials,pcs,
+BU15-WP-001,Energy Drinks - work in progress 001,Energy Drinks,Beverages,Work in progress,kg,
+BU15-WP-002,Energy Drinks - work in progress 002,Energy Drinks,Beverages,Work in progress,kg,
+BU15-WP-003,Energy Drinks - work in progress 003,Energy Drinks,Beverages,Work in progress,kg,
+BU15-SP-001,Energy Drinks - spare parts 001,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-002,Energy Drinks - spare parts 002,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-003,Energy Drinks - spare parts 003,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-004,Energy Drinks - spare parts 004,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-005,Energy Drinks - spare parts 005,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-006,Energy Drinks - spare parts 006,Energy Drinks,Beverages,Spare parts,pcs,
+BU15-SP-007,Energy Drinks - spare parts 007,Energy Drinks,Beverages,Spare parts,pcs,
+BU16-FG-001,Cartons - finished goods 001,Cartons,Packaging,Finished goods,kg,
+BU16-FG-002,Cartons - finished goods 002,Cartons,Packaging,Finished goods,kg,
+BU16-FG-003,Cartons - finished goods 003,Cartons,Packaging,Finished goods,kg,
+BU16-FG-004,Cartons - finished goods 004,Cartons,Packaging,Finished goods,kg,
+BU16-FG-005,Cartons - finished goods 005,Cartons,Packaging,Finished goods,kg,
+BU16-FG-006,Cartons - finished goods 006,Cartons,Packaging,Finished goods,kg,
+BU16-FG-007,Cartons - finished goods 007,Cartons,Packaging,Finished goods,kg,
+BU16-FG-008,Cartons - finished goods 008,Cartons,Packaging,Finished goods,kg,
+BU16-FG-009,Cartons - finished goods 009,Cartons,Packaging,Finished goods,kg,
+BU16-RM-001,Cartons - raw materials 001,Cartons,Packaging,Raw materials,kg,
+BU16-RM-002,Cartons - raw materials 002,Cartons,Packaging,Raw materials,kg,
+BU16-RM-003,Cartons - raw materials 003,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-004,Cartons - raw materials 004,Cartons,Packaging,Raw materials,kg,
+BU16-RM-005,Cartons - raw materials 005,Cartons,Packaging,Raw materials,kg,
+BU16-RM-006,Cartons - raw materials 006,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-007,Cartons - raw materials 007,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-008,Cartons - raw materials 008,Cartons,Packaging,Raw materials,kg,
+BU16-RM-009,Cartons - raw materials 009,Cartons,Packaging,Raw materials,kg,
+BU16-RM-010,Cartons - raw materials 010,Cartons,Packaging,Raw materials,kg,
+BU16-RM-011,Cartons - raw materials 011,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-012,Cartons - raw materials 012,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-013,Cartons - raw materials 013,Cartons,Packaging,Raw materials,kg,365.0
+BU16-RM-014,Cartons - raw materials 014,Cartons,Packaging,Raw materials,kg,
+BU16-PK-001,Cartons - packaging materials 001,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-002,Cartons - packaging materials 002,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-003,Cartons - packaging materials 003,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-004,Cartons - packaging materials 004,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-005,Cartons - packaging materials 005,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-006,Cartons - packaging materials 006,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-007,Cartons - packaging materials 007,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-008,Cartons - packaging materials 008,Cartons,Packaging,Packaging materials,pcs,
+BU16-PK-009,Cartons - packaging materials 009,Cartons,Packaging,Packaging materials,pcs,
+BU16-WP-001,Cartons - work in progress 001,Cartons,Packaging,Work in progress,kg,
+BU16-WP-002,Cartons - work in progress 002,Cartons,Packaging,Work in progress,kg,
+BU16-WP-003,Cartons - work in progress 003,Cartons,Packaging,Work in progress,kg,
+BU16-SP-001,Cartons - spare parts 001,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-002,Cartons - spare parts 002,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-003,Cartons - spare parts 003,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-004,Cartons - spare parts 004,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-005,Cartons - spare parts 005,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-006,Cartons - spare parts 006,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-007,Cartons - spare parts 007,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-008,Cartons - spare parts 008,Cartons,Packaging,Spare parts,pcs,
+BU16-SP-009,Cartons - spare parts 009,Cartons,Packaging,Spare parts,pcs,
+BU17-FG-001,Flexible Films - finished goods 001,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-002,Flexible Films - finished goods 002,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-003,Flexible Films - finished goods 003,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-004,Flexible Films - finished goods 004,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-005,Flexible Films - finished goods 005,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-006,Flexible Films - finished goods 006,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-007,Flexible Films - finished goods 007,Flexible Films,Packaging,Finished goods,kg,
+BU17-FG-008,Flexible Films - finished goods 008,Flexible Films,Packaging,Finished goods,kg,
+BU17-RM-001,Flexible Films - raw materials 001,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-002,Flexible Films - raw materials 002,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-003,Flexible Films - raw materials 003,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-RM-004,Flexible Films - raw materials 004,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-RM-005,Flexible Films - raw materials 005,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-006,Flexible Films - raw materials 006,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-007,Flexible Films - raw materials 007,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-008,Flexible Films - raw materials 008,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-RM-009,Flexible Films - raw materials 009,Flexible Films,Packaging,Raw materials,kg,
+BU17-RM-010,Flexible Films - raw materials 010,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-RM-011,Flexible Films - raw materials 011,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-RM-012,Flexible Films - raw materials 012,Flexible Films,Packaging,Raw materials,kg,365.0
+BU17-PK-001,Flexible Films - packaging materials 001,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-002,Flexible Films - packaging materials 002,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-003,Flexible Films - packaging materials 003,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-004,Flexible Films - packaging materials 004,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-005,Flexible Films - packaging materials 005,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-006,Flexible Films - packaging materials 006,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-007,Flexible Films - packaging materials 007,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-PK-008,Flexible Films - packaging materials 008,Flexible Films,Packaging,Packaging materials,pcs,
+BU17-WP-001,Flexible Films - work in progress 001,Flexible Films,Packaging,Work in progress,kg,
+BU17-WP-002,Flexible Films - work in progress 002,Flexible Films,Packaging,Work in progress,kg,
+BU17-WP-003,Flexible Films - work in progress 003,Flexible Films,Packaging,Work in progress,kg,
+BU17-SP-001,Flexible Films - spare parts 001,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-002,Flexible Films - spare parts 002,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-003,Flexible Films - spare parts 003,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-004,Flexible Films - spare parts 004,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-005,Flexible Films - spare parts 005,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-006,Flexible Films - spare parts 006,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-007,Flexible Films - spare parts 007,Flexible Films,Packaging,Spare parts,pcs,
+BU17-SP-008,Flexible Films - spare parts 008,Flexible Films,Packaging,Spare parts,pcs,
+BU18-FG-001,Labels - finished goods 001,Labels,Packaging,Finished goods,kg,
+BU18-FG-002,Labels - finished goods 002,Labels,Packaging,Finished goods,kg,
+BU18-FG-003,Labels - finished goods 003,Labels,Packaging,Finished goods,kg,
+BU18-FG-004,Labels - finished goods 004,Labels,Packaging,Finished goods,kg,
+BU18-FG-005,Labels - finished goods 005,Labels,Packaging,Finished goods,kg,
+BU18-FG-006,Labels - finished goods 006,Labels,Packaging,Finished goods,kg,
+BU18-FG-007,Labels - finished goods 007,Labels,Packaging,Finished goods,kg,
+BU18-RM-001,Labels - raw materials 001,Labels,Packaging,Raw materials,kg,365.0
+BU18-RM-002,Labels - raw materials 002,Labels,Packaging,Raw materials,kg,
+BU18-RM-003,Labels - raw materials 003,Labels,Packaging,Raw materials,kg,
+BU18-RM-004,Labels - raw materials 004,Labels,Packaging,Raw materials,kg,
+BU18-RM-005,Labels - raw materials 005,Labels,Packaging,Raw materials,kg,
+BU18-RM-006,Labels - raw materials 006,Labels,Packaging,Raw materials,kg,365.0
+BU18-RM-007,Labels - raw materials 007,Labels,Packaging,Raw materials,kg,365.0
+BU18-RM-008,Labels - raw materials 008,Labels,Packaging,Raw materials,kg,365.0
+BU18-RM-009,Labels - raw materials 009,Labels,Packaging,Raw materials,kg,365.0
+BU18-RM-010,Labels - raw materials 010,Labels,Packaging,Raw materials,kg,
+BU18-RM-011,Labels - raw materials 011,Labels,Packaging,Raw materials,kg,
+BU18-RM-012,Labels - raw materials 012,Labels,Packaging,Raw materials,kg,
+BU18-RM-013,Labels - raw materials 013,Labels,Packaging,Raw materials,kg,
+BU18-PK-001,Labels - packaging materials 001,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-002,Labels - packaging materials 002,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-003,Labels - packaging materials 003,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-004,Labels - packaging materials 004,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-005,Labels - packaging materials 005,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-006,Labels - packaging materials 006,Labels,Packaging,Packaging materials,pcs,
+BU18-PK-007,Labels - packaging materials 007,Labels,Packaging,Packaging materials,pcs,
+BU18-WP-001,Labels - work in progress 001,Labels,Packaging,Work in progress,kg,
+BU18-WP-002,Labels - work in progress 002,Labels,Packaging,Work in progress,kg,
+BU18-WP-003,Labels - work in progress 003,Labels,Packaging,Work in progress,kg,
+BU18-SP-001,Labels - spare parts 001,Labels,Packaging,Spare parts,pcs,
+BU18-SP-002,Labels - spare parts 002,Labels,Packaging,Spare parts,pcs,
+BU18-SP-003,Labels - spare parts 003,Labels,Packaging,Spare parts,pcs,
+BU18-SP-004,Labels - spare parts 004,Labels,Packaging,Spare parts,pcs,
+BU18-SP-005,Labels - spare parts 005,Labels,Packaging,Spare parts,pcs,
+BU18-SP-006,Labels - spare parts 006,Labels,Packaging,Spare parts,pcs,
+BU18-SP-007,Labels - spare parts 007,Labels,Packaging,Spare parts,pcs,
+BU19-FG-001,Refined Sugar - finished goods 001,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,540.0
+BU19-FG-002,Refined Sugar - finished goods 002,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,540.0
+BU19-FG-003,Refined Sugar - finished goods 003,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,378.0
+BU19-FG-004,Refined Sugar - finished goods 004,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,378.0
+BU19-FG-005,Refined Sugar - finished goods 005,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,702.0
+BU19-FG-006,Refined Sugar - finished goods 006,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,702.0
+BU19-FG-007,Refined Sugar - finished goods 007,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,378.0
+BU19-FG-008,Refined Sugar - finished goods 008,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,540.0
+BU19-FG-009,Refined Sugar - finished goods 009,Refined Sugar,Sugar & Sweeteners,Finished goods,kg,702.0
+BU19-RM-001,Refined Sugar - raw materials 001,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-002,Refined Sugar - raw materials 002,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,365.0
+BU19-RM-003,Refined Sugar - raw materials 003,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-004,Refined Sugar - raw materials 004,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,365.0
+BU19-RM-005,Refined Sugar - raw materials 005,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-006,Refined Sugar - raw materials 006,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-007,Refined Sugar - raw materials 007,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-008,Refined Sugar - raw materials 008,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-009,Refined Sugar - raw materials 009,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-010,Refined Sugar - raw materials 010,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,365.0
+BU19-RM-011,Refined Sugar - raw materials 011,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-012,Refined Sugar - raw materials 012,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-RM-013,Refined Sugar - raw materials 013,Refined Sugar,Sugar & Sweeteners,Raw materials,kg,
+BU19-PK-001,Refined Sugar - packaging materials 001,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-002,Refined Sugar - packaging materials 002,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-003,Refined Sugar - packaging materials 003,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-004,Refined Sugar - packaging materials 004,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-005,Refined Sugar - packaging materials 005,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-006,Refined Sugar - packaging materials 006,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-007,Refined Sugar - packaging materials 007,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-008,Refined Sugar - packaging materials 008,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-PK-009,Refined Sugar - packaging materials 009,Refined Sugar,Sugar & Sweeteners,Packaging materials,pcs,
+BU19-WP-001,Refined Sugar - work in progress 001,Refined Sugar,Sugar & Sweeteners,Work in progress,kg,
+BU19-WP-002,Refined Sugar - work in progress 002,Refined Sugar,Sugar & Sweeteners,Work in progress,kg,
+BU19-WP-003,Refined Sugar - work in progress 003,Refined Sugar,Sugar & Sweeteners,Work in progress,kg,
+BU19-SP-001,Refined Sugar - spare parts 001,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-002,Refined Sugar - spare parts 002,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-003,Refined Sugar - spare parts 003,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-004,Refined Sugar - spare parts 004,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-005,Refined Sugar - spare parts 005,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-006,Refined Sugar - spare parts 006,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-007,Refined Sugar - spare parts 007,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-008,Refined Sugar - spare parts 008,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU19-SP-009,Refined Sugar - spare parts 009,Refined Sugar,Sugar & Sweeteners,Spare parts,pcs,
+BU20-FG-001,Confectionery - finished goods 001,Confectionery,Sugar & Sweeteners,Finished goods,kg,378.0
+BU20-FG-002,Confectionery - finished goods 002,Confectionery,Sugar & Sweeteners,Finished goods,kg,540.0
+BU20-FG-003,Confectionery - finished goods 003,Confectionery,Sugar & Sweeteners,Finished goods,kg,702.0
+BU20-FG-004,Confectionery - finished goods 004,Confectionery,Sugar & Sweeteners,Finished goods,kg,702.0
+BU20-FG-005,Confectionery - finished goods 005,Confectionery,Sugar & Sweeteners,Finished goods,kg,702.0
+BU20-FG-006,Confectionery - finished goods 006,Confectionery,Sugar & Sweeteners,Finished goods,kg,540.0
+BU20-FG-007,Confectionery - finished goods 007,Confectionery,Sugar & Sweeteners,Finished goods,kg,378.0
+BU20-FG-008,Confectionery - finished goods 008,Confectionery,Sugar & Sweeteners,Finished goods,kg,540.0
+BU20-FG-009,Confectionery - finished goods 009,Confectionery,Sugar & Sweeteners,Finished goods,kg,540.0
+BU20-RM-001,Confectionery - raw materials 001,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-002,Confectionery - raw materials 002,Confectionery,Sugar & Sweeteners,Raw materials,kg,365.0
+BU20-RM-003,Confectionery - raw materials 003,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-004,Confectionery - raw materials 004,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-005,Confectionery - raw materials 005,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-006,Confectionery - raw materials 006,Confectionery,Sugar & Sweeteners,Raw materials,kg,365.0
+BU20-RM-007,Confectionery - raw materials 007,Confectionery,Sugar & Sweeteners,Raw materials,kg,365.0
+BU20-RM-008,Confectionery - raw materials 008,Confectionery,Sugar & Sweeteners,Raw materials,kg,365.0
+BU20-RM-009,Confectionery - raw materials 009,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-010,Confectionery - raw materials 010,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-011,Confectionery - raw materials 011,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-012,Confectionery - raw materials 012,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-013,Confectionery - raw materials 013,Confectionery,Sugar & Sweeteners,Raw materials,kg,
+BU20-RM-014,Confectionery - raw materials 014,Confectionery,Sugar & Sweeteners,Raw materials,kg,365.0
+BU20-PK-001,Confectionery - packaging materials 001,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-002,Confectionery - packaging materials 002,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-003,Confectionery - packaging materials 003,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-004,Confectionery - packaging materials 004,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-005,Confectionery - packaging materials 005,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-006,Confectionery - packaging materials 006,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-007,Confectionery - packaging materials 007,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-008,Confectionery - packaging materials 008,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-PK-009,Confectionery - packaging materials 009,Confectionery,Sugar & Sweeteners,Packaging materials,pcs,
+BU20-WP-001,Confectionery - work in progress 001,Confectionery,Sugar & Sweeteners,Work in progress,kg,
+BU20-WP-002,Confectionery - work in progress 002,Confectionery,Sugar & Sweeteners,Work in progress,kg,
+BU20-WP-003,Confectionery - work in progress 003,Confectionery,Sugar & Sweeteners,Work in progress,kg,
+BU20-SP-001,Confectionery - spare parts 001,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-002,Confectionery - spare parts 002,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-003,Confectionery - spare parts 003,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-004,Confectionery - spare parts 004,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-005,Confectionery - spare parts 005,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-006,Confectionery - spare parts 006,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-007,Confectionery - spare parts 007,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-008,Confectionery - spare parts 008,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU20-SP-009,Confectionery - spare parts 009,Confectionery,Sugar & Sweeteners,Spare parts,pcs,
+BU21-FG-001,Syrups - finished goods 001,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-002,Syrups - finished goods 002,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-003,Syrups - finished goods 003,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-004,Syrups - finished goods 004,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-005,Syrups - finished goods 005,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-006,Syrups - finished goods 006,Syrups,Sugar & Sweeteners,Finished goods,kg,378.0
+BU21-FG-007,Syrups - finished goods 007,Syrups,Sugar & Sweeteners,Finished goods,kg,540.0
+BU21-FG-008,Syrups - finished goods 008,Syrups,Sugar & Sweeteners,Finished goods,kg,540.0
+BU21-RM-001,Syrups - raw materials 001,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-002,Syrups - raw materials 002,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-003,Syrups - raw materials 003,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-004,Syrups - raw materials 004,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-005,Syrups - raw materials 005,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-006,Syrups - raw materials 006,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-007,Syrups - raw materials 007,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-008,Syrups - raw materials 008,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-009,Syrups - raw materials 009,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-010,Syrups - raw materials 010,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-RM-011,Syrups - raw materials 011,Syrups,Sugar & Sweeteners,Raw materials,kg,365.0
+BU21-RM-012,Syrups - raw materials 012,Syrups,Sugar & Sweeteners,Raw materials,kg,
+BU21-PK-001,Syrups - packaging materials 001,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-002,Syrups - packaging materials 002,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-003,Syrups - packaging materials 003,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-004,Syrups - packaging materials 004,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-005,Syrups - packaging materials 005,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-006,Syrups - packaging materials 006,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-007,Syrups - packaging materials 007,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-PK-008,Syrups - packaging materials 008,Syrups,Sugar & Sweeteners,Packaging materials,pcs,
+BU21-WP-001,Syrups - work in progress 001,Syrups,Sugar & Sweeteners,Work in progress,kg,
+BU21-WP-002,Syrups - work in progress 002,Syrups,Sugar & Sweeteners,Work in progress,kg,
+BU21-WP-003,Syrups - work in progress 003,Syrups,Sugar & Sweeteners,Work in progress,kg,
+BU21-SP-001,Syrups - spare parts 001,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-002,Syrups - spare parts 002,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-003,Syrups - spare parts 003,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-004,Syrups - spare parts 004,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-005,Syrups - spare parts 005,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-006,Syrups - spare parts 006,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-007,Syrups - spare parts 007,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU21-SP-008,Syrups - spare parts 008,Syrups,Sugar & Sweeteners,Spare parts,pcs,
+BU22-FG-001,Vegetable Oil - finished goods 001,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,365.0
+BU22-FG-002,Vegetable Oil - finished goods 002,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,474.0
+BU22-FG-003,Vegetable Oil - finished goods 003,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,365.0
+BU22-FG-004,Vegetable Oil - finished goods 004,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,365.0
+BU22-FG-005,Vegetable Oil - finished goods 005,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,474.0
+BU22-FG-006,Vegetable Oil - finished goods 006,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,365.0
+BU22-FG-007,Vegetable Oil - finished goods 007,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,474.0
+BU22-FG-008,Vegetable Oil - finished goods 008,Vegetable Oil,Edible Oils & Fats,Finished goods,kg,365.0
+BU22-RM-001,Vegetable Oil - raw materials 001,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-002,Vegetable Oil - raw materials 002,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-003,Vegetable Oil - raw materials 003,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-004,Vegetable Oil - raw materials 004,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-005,Vegetable Oil - raw materials 005,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-006,Vegetable Oil - raw materials 006,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-007,Vegetable Oil - raw materials 007,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-008,Vegetable Oil - raw materials 008,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-009,Vegetable Oil - raw materials 009,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-010,Vegetable Oil - raw materials 010,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,365.0
+BU22-RM-011,Vegetable Oil - raw materials 011,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-RM-012,Vegetable Oil - raw materials 012,Vegetable Oil,Edible Oils & Fats,Raw materials,kg,
+BU22-PK-001,Vegetable Oil - packaging materials 001,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-002,Vegetable Oil - packaging materials 002,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-003,Vegetable Oil - packaging materials 003,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-004,Vegetable Oil - packaging materials 004,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-005,Vegetable Oil - packaging materials 005,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-006,Vegetable Oil - packaging materials 006,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-007,Vegetable Oil - packaging materials 007,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-PK-008,Vegetable Oil - packaging materials 008,Vegetable Oil,Edible Oils & Fats,Packaging materials,pcs,
+BU22-WP-001,Vegetable Oil - work in progress 001,Vegetable Oil,Edible Oils & Fats,Work in progress,kg,
+BU22-WP-002,Vegetable Oil - work in progress 002,Vegetable Oil,Edible Oils & Fats,Work in progress,kg,
+BU22-WP-003,Vegetable Oil - work in progress 003,Vegetable Oil,Edible Oils & Fats,Work in progress,kg,
+BU22-SP-001,Vegetable Oil - spare parts 001,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-002,Vegetable Oil - spare parts 002,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-003,Vegetable Oil - spare parts 003,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-004,Vegetable Oil - spare parts 004,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-005,Vegetable Oil - spare parts 005,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-006,Vegetable Oil - spare parts 006,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-007,Vegetable Oil - spare parts 007,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU22-SP-008,Vegetable Oil - spare parts 008,Vegetable Oil,Edible Oils & Fats,Spare parts,pcs,
+BU23-FG-001,Margarine - finished goods 001,Margarine,Edible Oils & Fats,Finished goods,kg,365.0
+BU23-FG-002,Margarine - finished goods 002,Margarine,Edible Oils & Fats,Finished goods,kg,255.0
+BU23-FG-003,Margarine - finished goods 003,Margarine,Edible Oils & Fats,Finished goods,kg,365.0
+BU23-FG-004,Margarine - finished goods 004,Margarine,Edible Oils & Fats,Finished goods,kg,255.0
+BU23-FG-005,Margarine - finished goods 005,Margarine,Edible Oils & Fats,Finished goods,kg,365.0
+BU23-FG-006,Margarine - finished goods 006,Margarine,Edible Oils & Fats,Finished goods,kg,255.0
+BU23-FG-007,Margarine - finished goods 007,Margarine,Edible Oils & Fats,Finished goods,kg,365.0
+BU23-RM-001,Margarine - raw materials 001,Margarine,Edible Oils & Fats,Raw materials,kg,365.0
+BU23-RM-002,Margarine - raw materials 002,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-003,Margarine - raw materials 003,Margarine,Edible Oils & Fats,Raw materials,kg,365.0
+BU23-RM-004,Margarine - raw materials 004,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-005,Margarine - raw materials 005,Margarine,Edible Oils & Fats,Raw materials,kg,365.0
+BU23-RM-006,Margarine - raw materials 006,Margarine,Edible Oils & Fats,Raw materials,kg,365.0
+BU23-RM-007,Margarine - raw materials 007,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-008,Margarine - raw materials 008,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-009,Margarine - raw materials 009,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-010,Margarine - raw materials 010,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-011,Margarine - raw materials 011,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-012,Margarine - raw materials 012,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-RM-013,Margarine - raw materials 013,Margarine,Edible Oils & Fats,Raw materials,kg,
+BU23-PK-001,Margarine - packaging materials 001,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-002,Margarine - packaging materials 002,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-003,Margarine - packaging materials 003,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-004,Margarine - packaging materials 004,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-005,Margarine - packaging materials 005,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-006,Margarine - packaging materials 006,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-PK-007,Margarine - packaging materials 007,Margarine,Edible Oils & Fats,Packaging materials,pcs,
+BU23-WP-001,Margarine - work in progress 001,Margarine,Edible Oils & Fats,Work in progress,kg,
+BU23-WP-002,Margarine - work in progress 002,Margarine,Edible Oils & Fats,Work in progress,kg,
+BU23-WP-003,Margarine - work in progress 003,Margarine,Edible Oils & Fats,Work in progress,kg,
+BU23-SP-001,Margarine - spare parts 001,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-002,Margarine - spare parts 002,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-003,Margarine - spare parts 003,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-004,Margarine - spare parts 004,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-005,Margarine - spare parts 005,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-006,Margarine - spare parts 006,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU23-SP-007,Margarine - spare parts 007,Margarine,Edible Oils & Fats,Spare parts,pcs,
+BU24-FG-001,Cooking Fats - finished goods 001,Cooking Fats,Edible Oils & Fats,Finished goods,kg,365.0
+BU24-FG-002,Cooking Fats - finished goods 002,Cooking Fats,Edible Oils & Fats,Finished goods,kg,474.0
+BU24-FG-003,Cooking Fats - finished goods 003,Cooking Fats,Edible Oils & Fats,Finished goods,kg,365.0
+BU24-FG-004,Cooking Fats - finished goods 004,Cooking Fats,Edible Oils & Fats,Finished goods,kg,474.0
+BU24-FG-005,Cooking Fats - finished goods 005,Cooking Fats,Edible Oils & Fats,Finished goods,kg,365.0
+BU24-FG-006,Cooking Fats - finished goods 006,Cooking Fats,Edible Oils & Fats,Finished goods,kg,255.0
+BU24-FG-007,Cooking Fats - finished goods 007,Cooking Fats,Edible Oils & Fats,Finished goods,kg,474.0
+BU24-FG-008,Cooking Fats - finished goods 008,Cooking Fats,Edible Oils & Fats,Finished goods,kg,365.0
+BU24-RM-001,Cooking Fats - raw materials 001,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-002,Cooking Fats - raw materials 002,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-003,Cooking Fats - raw materials 003,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-004,Cooking Fats - raw materials 004,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-005,Cooking Fats - raw materials 005,Cooking Fats,Edible Oils & Fats,Raw materials,kg,365.0
+BU24-RM-006,Cooking Fats - raw materials 006,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-007,Cooking Fats - raw materials 007,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-008,Cooking Fats - raw materials 008,Cooking Fats,Edible Oils & Fats,Raw materials,kg,365.0
+BU24-RM-009,Cooking Fats - raw materials 009,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-010,Cooking Fats - raw materials 010,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-011,Cooking Fats - raw materials 011,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-012,Cooking Fats - raw materials 012,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-013,Cooking Fats - raw materials 013,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-014,Cooking Fats - raw materials 014,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-RM-015,Cooking Fats - raw materials 015,Cooking Fats,Edible Oils & Fats,Raw materials,kg,
+BU24-PK-001,Cooking Fats - packaging materials 001,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-002,Cooking Fats - packaging materials 002,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-003,Cooking Fats - packaging materials 003,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-004,Cooking Fats - packaging materials 004,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-005,Cooking Fats - packaging materials 005,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-006,Cooking Fats - packaging materials 006,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-007,Cooking Fats - packaging materials 007,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-PK-008,Cooking Fats - packaging materials 008,Cooking Fats,Edible Oils & Fats,Packaging materials,pcs,
+BU24-WP-001,Cooking Fats - work in progress 001,Cooking Fats,Edible Oils & Fats,Work in progress,kg,
+BU24-WP-002,Cooking Fats - work in progress 002,Cooking Fats,Edible Oils & Fats,Work in progress,kg,
+BU24-WP-003,Cooking Fats - work in progress 003,Cooking Fats,Edible Oils & Fats,Work in progress,kg,
+BU24-SP-001,Cooking Fats - spare parts 001,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-002,Cooking Fats - spare parts 002,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-003,Cooking Fats - spare parts 003,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-004,Cooking Fats - spare parts 004,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-005,Cooking Fats - spare parts 005,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-006,Cooking Fats - spare parts 006,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-007,Cooking Fats - spare parts 007,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU24-SP-008,Cooking Fats - spare parts 008,Cooking Fats,Edible Oils & Fats,Spare parts,pcs,
+BU25-FG-001,Soap - finished goods 001,Soap,Edible Oils & Fats,Finished goods,kg,255.0
+BU25-FG-002,Soap - finished goods 002,Soap,Edible Oils & Fats,Finished goods,kg,255.0
+BU25-FG-003,Soap - finished goods 003,Soap,Edible Oils & Fats,Finished goods,kg,365.0
+BU25-FG-004,Soap - finished goods 004,Soap,Edible Oils & Fats,Finished goods,kg,365.0
+BU25-FG-005,Soap - finished goods 005,Soap,Edible Oils & Fats,Finished goods,kg,474.0
+BU25-FG-006,Soap - finished goods 006,Soap,Edible Oils & Fats,Finished goods,kg,255.0
+BU25-FG-007,Soap - finished goods 007,Soap,Edible Oils & Fats,Finished goods,kg,255.0
+BU25-FG-008,Soap - finished goods 008,Soap,Edible Oils & Fats,Finished goods,kg,255.0
+BU25-RM-001,Soap - raw materials 001,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-002,Soap - raw materials 002,Soap,Edible Oils & Fats,Raw materials,kg,365.0
+BU25-RM-003,Soap - raw materials 003,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-004,Soap - raw materials 004,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-005,Soap - raw materials 005,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-006,Soap - raw materials 006,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-007,Soap - raw materials 007,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-008,Soap - raw materials 008,Soap,Edible Oils & Fats,Raw materials,kg,365.0
+BU25-RM-009,Soap - raw materials 009,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-010,Soap - raw materials 010,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-RM-011,Soap - raw materials 011,Soap,Edible Oils & Fats,Raw materials,kg,
+BU25-PK-001,Soap - packaging materials 001,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-002,Soap - packaging materials 002,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-003,Soap - packaging materials 003,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-004,Soap - packaging materials 004,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-005,Soap - packaging materials 005,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-006,Soap - packaging materials 006,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-007,Soap - packaging materials 007,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-PK-008,Soap - packaging materials 008,Soap,Edible Oils & Fats,Packaging materials,pcs,
+BU25-WP-001,Soap - work in progress 001,Soap,Edible Oils & Fats,Work in progress,kg,
+BU25-WP-002,Soap - work in progress 002,Soap,Edible Oils & Fats,Work in progress,kg,
+BU25-WP-003,Soap - work in progress 003,Soap,Edible Oils & Fats,Work in progress,kg,
+BU25-SP-001,Soap - spare parts 001,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-002,Soap - spare parts 002,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-003,Soap - spare parts 003,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-004,Soap - spare parts 004,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-005,Soap - spare parts 005,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-006,Soap - spare parts 006,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-007,Soap - spare parts 007,Soap,Edible Oils & Fats,Spare parts,pcs,
+BU25-SP-008,Soap - spare parts 008,Soap,Edible Oils & Fats,Spare parts,pcs,

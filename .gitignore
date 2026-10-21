@@ -1,0 +1,6 @@
+__pycache__/
+data_backup/
+incoming/
+incoming_archive/
+run_log.csv
+.venv/

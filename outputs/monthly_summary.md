@@ -1,0 +1,149 @@
+# Tobi John PLC: inventory health summary for September 2026
+
+## Tobi John PLC
+
+Tobi John PLC holds ₦261.5bn of inventory, down 1.3% on last month and up 18.7% on a year ago. That is 11.8% of annual sales, or 54 days of stock (50 a year ago).
+
+Of 25 business units, 7 are above their range, 1 below it and 17 in range. In total ₦16.6bn sits above range, costing about ₦347m a month to hold. The largest is Fertilizer, at ₦4.2bn above the top of its range. Energy Drinks is ₦1.1bn below the bottom of its range, so supply needs checking before it runs out.
+
+250 A items (25% of items) make up 81% of usage value and hold 60% of inventory value, so planning effort should start there.
+
+51 items have not moved for months and hold ₦11.9bn. 17 items may expire before use, with ₦5.5bn at risk. 17 items hold less than 60% of normal cover.
+
+As reported, inventory differs from the finance balance by +2.8%. After cleaning, the gap is +0.8%. 9 data errors worth ₦7.0bn were corrected this month. The remaining gap looks like timing, such as receipts not yet posted, and should be checked with finance.
+
+**What to do**
+
+- Hold back purchasing in Fertilizer, Vegetable Oil, Biscuits until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+- Raise orders for the items and units running short, starting with A items.
+- Agree with finance how to close the remaining gap, and use one inventory number in S&OP.
+
+## Foods
+
+Foods holds ₦46.5bn of inventory, down 4.3% on last month and up 24.3% on a year ago. That is 12.6% of annual sales, or 57 days of stock (46 a year ago).
+
+Of 5 business units, 3 are above their range, 0 below it and 2 in range. In total ₦6.3bn sits above range, costing about ₦131m a month to hold. The largest is Biscuits, at ₦3.1bn above the top of its range.
+
+48 A items (25% of items) make up 81% of usage value and hold 57% of inventory value, so planning effort should start there.
+
+9 items have not moved for months and hold ₦4.1bn. 4 items may expire before use, with ₦2.5bn at risk.
+
+As reported, inventory differs from the finance balance by +0.4%. After cleaning, the gap is +0.8%. 1 data error worth ₦155m was corrected this month. The reported figure looked closer to finance only because errors partly cancelled each other out. The remaining gap looks like timing, such as receipts not yet posted, and should be checked with finance.
+
+**What to do**
+
+- Hold back purchasing in Biscuits, Pasta, Breakfast Cereals until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+- Agree with finance how to close the remaining gap, and use one inventory number in S&OP.
+
+## Flour & Milling
+
+Flour & Milling holds ₦66.1bn of inventory, down 6.0% on last month and up 10.3% on a year ago. That is 12.6% of annual sales, or 52 days of stock (54 a year ago).
+
+Of 4 business units, 1 are above their range, 0 below it and 3 in range. In total ₦1.3bn sits above range, costing about ₦27m a month to hold. The largest is Bran & Co-products, at ₦702m above the top of its range.
+
+40 A items (25% of items) make up 81% of usage value and hold 59% of inventory value, so planning effort should start there.
+
+8 items have not moved for months and hold ₦2.9bn. 3 items may expire before use, with ₦621m at risk.
+
+As reported, inventory differs from the finance balance by +0.3%. After cleaning, the gap is -0.0%. 1 data error worth ₦232m was corrected this month.
+
+**What to do**
+
+- Hold back purchasing in Bran & Co-products until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+
+## Agro
+
+Agro holds ₦30.9bn of inventory, down 0.2% on last month and up 28.9% on a year ago. That is 11.7% of annual sales, or 54 days of stock (46 a year ago).
+
+Of 2 business units, 1 are above their range, 0 below it and 1 in range. In total ₦4.2bn sits above range, costing about ₦88m a month to hold. The largest is Fertilizer, at ₦4.2bn above the top of its range.
+
+21 A items (25% of items) make up 80% of usage value and hold 57% of inventory value, so planning effort should start there.
+
+6 items have not moved for months and hold ₦2.4bn. 2 items may expire before use, with ₦1.7bn at risk.
+
+As reported, inventory differs from the finance balance by +1.9%. After cleaning, the gap is +1.9%. 0 data errors worth ₦0m were corrected this month. The reported figure looked closer to finance only because errors partly cancelled each other out. The remaining gap looks like timing, such as receipts not yet posted, and should be checked with finance.
+
+**What to do**
+
+- Hold back purchasing in Fertilizer until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+- Agree with finance how to close the remaining gap, and use one inventory number in S&OP.
+
+## Beverages
+
+Beverages holds ₦27.3bn of inventory, up 7.3% on last month and up 5.4% on a year ago. That is 8.4% of annual sales, or 50 days of stock (54 a year ago).
+
+Of 4 business units, 0 are above their range, 1 below it and 3 in range. Energy Drinks is ₦1.1bn below the bottom of its range, so supply needs checking before it runs out.
+
+42 A items (29% of items) make up 82% of usage value and hold 61% of inventory value, so planning effort should start there.
+
+6 items have not moved for months and hold ₦118m. 17 items hold less than 60% of normal cover.
+
+As reported, inventory differs from the finance balance by +14.0%. After cleaning, the gap is +1.2%. 3 data errors worth ₦3.4bn were corrected this month. The remaining gap looks like timing, such as receipts not yet posted, and should be checked with finance.
+
+**What to do**
+
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Raise orders for the items and units running short, starting with A items.
+- Agree with finance how to close the remaining gap, and use one inventory number in S&OP.
+
+## Packaging
+
+Packaging holds ₦14.3bn of inventory, down 1.0% on last month and up 14.0% on a year ago. That is 12.5% of annual sales, or 55 days of stock (52 a year ago).
+
+Of 3 business units, 0 are above their range, 0 below it and 3 in range.
+
+32 A items (27% of items) make up 81% of usage value and hold 58% of inventory value, so planning effort should start there.
+
+11 items have not moved for months and hold ₦1.4bn. 3 items may expire before use, with ₦232m at risk.
+
+As reported, inventory differs from the finance balance by +10.8%. After cleaning, the gap is -0.1%. 2 data errors worth ₦3.0bn were corrected this month.
+
+**What to do**
+
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+
+## Sugar & Sweeteners
+
+Sugar & Sweeteners holds ₦35.5bn of inventory, up 5.2% on last month and up 16.9% on a year ago. That is 11.7% of annual sales, or 52 days of stock (50 a year ago).
+
+Of 3 business units, 1 are above their range, 0 below it and 2 in range. In total ₦415m sits above range, costing about ₦9m a month to hold. The largest is Syrups, at ₦415m above the top of its range.
+
+31 A items (25% of items) make up 81% of usage value and hold 62% of inventory value, so planning effort should start there.
+
+5 items have not moved for months and hold ₦677m. 3 items may expire before use, with ₦319m at risk.
+
+As reported, inventory differs from the finance balance by +2.5%. After cleaning, the gap is +2.5%. 1 data error worth ₦15m was corrected this month. The remaining gap looks like timing, such as receipts not yet posted, and should be checked with finance.
+
+**What to do**
+
+- Hold back purchasing in Syrups until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.
+- Agree with finance how to close the remaining gap, and use one inventory number in S&OP.
+
+## Edible Oils & Fats
+
+Edible Oils & Fats holds ₦40.9bn of inventory, down 1.1% on last month and up 35.2% on a year ago. That is 12.8% of annual sales, or 59 days of stock (47 a year ago).
+
+Of 4 business units, 1 are above their range, 0 below it and 3 in range. In total ₦3.9bn sits above range, costing about ₦80m a month to hold. The largest is Vegetable Oil, at ₦3.8bn above the top of its range.
+
+36 A items (23% of items) make up 81% of usage value and hold 65% of inventory value, so planning effort should start there.
+
+6 items have not moved for months and hold ₦410m. 2 items may expire before use, with ₦136m at risk.
+
+As reported, inventory differs from the finance balance by +0.5%. After cleaning, the gap is +0.0%. 1 data error worth ₦191m was corrected this month.
+
+**What to do**
+
+- Hold back purchasing in Vegetable Oil until stock falls back into range.
+- Review the slow-moving items, starting with A items, and decide whether to sell, return or write them down.
+- Use at-risk items first, and agree a promotion or transfer for stock that cannot be used in time.

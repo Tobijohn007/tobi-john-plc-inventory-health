@@ -1,0 +1,301 @@
+{
+  "company": "Tobi John PLC",
+  "excess_business_units": {
+    "Biscuits": 1.7,
+    "Fertilizer": 1.5,
+    "Vegetable Oil": 1.4
+  },
+  "excess_starts": "2025-10-01",
+  "short_spells": {
+    "Energy Drinks": {
+      "from": "2026-06-01",
+      "to": "2026-09-01",
+      "stock_factor": 0.55
+    },
+    "Bottled Water": {
+      "from": "2026-02-01",
+      "to": "2026-04-01",
+      "stock_factor": 0.6
+    }
+  },
+  "finance_lag_business_units": [
+    "Pasta",
+    "Soft Drinks",
+    "Refined Sugar",
+    "Animal Feeds"
+  ],
+  "finance_lag_from": "2026-04-01",
+  "finance_lag_share": 0.03,
+  "reporting_errors": {
+    "Duplicate row": 177,
+    "Extra zeros": 106,
+    "Negative stock": 88
+  },
+  "dead_items": [
+    {
+      "item_id": "BU01-FG-001",
+      "business_unit": "Pasta",
+      "dead_from": "2025-11-01"
+    },
+    {
+      "item_id": "BU01-FG-005",
+      "business_unit": "Pasta",
+      "dead_from": "2025-01-01"
+    },
+    {
+      "item_id": "BU01-RM-003",
+      "business_unit": "Pasta",
+      "dead_from": "2025-10-01"
+    },
+    {
+      "item_id": "BU01-PK-006",
+      "business_unit": "Pasta",
+      "dead_from": "2025-02-01"
+    },
+    {
+      "item_id": "BU03-RM-009",
+      "business_unit": "Biscuits",
+      "dead_from": "2025-05-01"
+    },
+    {
+      "item_id": "BU04-PK-001",
+      "business_unit": "Snacks",
+      "dead_from": "2025-10-01"
+    },
+    {
+      "item_id": "BU04-SP-006",
+      "business_unit": "Snacks",
+      "dead_from": "2025-12-01"
+    },
+    {
+      "item_id": "BU05-FG-005",
+      "business_unit": "Breakfast Cereals",
+      "dead_from": "2025-03-01"
+    },
+    {
+      "item_id": "BU05-RM-012",
+      "business_unit": "Breakfast Cereals",
+      "dead_from": "2026-02-01"
+    },
+    {
+      "item_id": "BU05-SP-004",
+      "business_unit": "Breakfast Cereals",
+      "dead_from": "2025-08-01"
+    },
+    {
+      "item_id": "BU07-FG-006",
+      "business_unit": "Bakery Flour",
+      "dead_from": "2026-02-01"
+    },
+    {
+      "item_id": "BU07-RM-007",
+      "business_unit": "Bakery Flour",
+      "dead_from": "2025-08-01"
+    },
+    {
+      "item_id": "BU07-RM-008",
+      "business_unit": "Bakery Flour",
+      "dead_from": "2025-07-01"
+    },
+    {
+      "item_id": "BU08-FG-007",
+      "business_unit": "Semolina",
+      "dead_from": "2026-01-01"
+    },
+    {
+      "item_id": "BU08-PK-006",
+      "business_unit": "Semolina",
+      "dead_from": "2025-11-01"
+    },
+    {
+      "item_id": "BU09-FG-005",
+      "business_unit": "Bran & Co-products",
+      "dead_from": "2025-03-01"
+    },
+    {
+      "item_id": "BU09-RM-011",
+      "business_unit": "Bran & Co-products",
+      "dead_from": "2025-11-01"
+    },
+    {
+      "item_id": "BU09-PK-005",
+      "business_unit": "Bran & Co-products",
+      "dead_from": "2026-02-01"
+    },
+    {
+      "item_id": "BU10-RM-014",
+      "business_unit": "Animal Feeds",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU11-FG-006",
+      "business_unit": "Fertilizer",
+      "dead_from": "2025-09-01"
+    },
+    {
+      "item_id": "BU11-RM-002",
+      "business_unit": "Fertilizer",
+      "dead_from": "2025-08-01"
+    },
+    {
+      "item_id": "BU11-RM-005",
+      "business_unit": "Fertilizer",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU11-PK-007",
+      "business_unit": "Fertilizer",
+      "dead_from": "2025-05-01"
+    },
+    {
+      "item_id": "BU11-SP-002",
+      "business_unit": "Fertilizer",
+      "dead_from": "2025-03-01"
+    },
+    {
+      "item_id": "BU13-PK-005",
+      "business_unit": "Juice",
+      "dead_from": "2025-03-01"
+    },
+    {
+      "item_id": "BU13-PK-007",
+      "business_unit": "Juice",
+      "dead_from": "2025-09-01"
+    },
+    {
+      "item_id": "BU14-RM-005",
+      "business_unit": "Bottled Water",
+      "dead_from": "2025-04-01"
+    },
+    {
+      "item_id": "BU14-SP-002",
+      "business_unit": "Bottled Water",
+      "dead_from": "2025-10-01"
+    },
+    {
+      "item_id": "BU15-RM-005",
+      "business_unit": "Energy Drinks",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU15-PK-007",
+      "business_unit": "Energy Drinks",
+      "dead_from": "2025-07-01"
+    },
+    {
+      "item_id": "BU16-FG-006",
+      "business_unit": "Cartons",
+      "dead_from": "2025-12-01"
+    },
+    {
+      "item_id": "BU16-RM-006",
+      "business_unit": "Cartons",
+      "dead_from": "2025-05-01"
+    },
+    {
+      "item_id": "BU16-RM-011",
+      "business_unit": "Cartons",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU16-PK-001",
+      "business_unit": "Cartons",
+      "dead_from": "2025-10-01"
+    },
+    {
+      "item_id": "BU16-SP-005",
+      "business_unit": "Cartons",
+      "dead_from": "2025-06-01"
+    },
+    {
+      "item_id": "BU17-FG-007",
+      "business_unit": "Flexible Films",
+      "dead_from": "2025-06-01"
+    },
+    {
+      "item_id": "BU17-RM-006",
+      "business_unit": "Flexible Films",
+      "dead_from": "2025-03-01"
+    },
+    {
+      "item_id": "BU17-SP-001",
+      "business_unit": "Flexible Films",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU18-RM-002",
+      "business_unit": "Labels",
+      "dead_from": "2024-12-01"
+    },
+    {
+      "item_id": "BU18-RM-009",
+      "business_unit": "Labels",
+      "dead_from": "2025-07-01"
+    },
+    {
+      "item_id": "BU18-RM-011",
+      "business_unit": "Labels",
+      "dead_from": "2025-01-01"
+    },
+    {
+      "item_id": "BU19-RM-002",
+      "business_unit": "Refined Sugar",
+      "dead_from": "2025-05-01"
+    },
+    {
+      "item_id": "BU20-RM-002",
+      "business_unit": "Confectionery",
+      "dead_from": "2025-08-01"
+    },
+    {
+      "item_id": "BU21-RM-004",
+      "business_unit": "Syrups",
+      "dead_from": "2025-02-01"
+    },
+    {
+      "item_id": "BU21-RM-011",
+      "business_unit": "Syrups",
+      "dead_from": "2026-01-01"
+    },
+    {
+      "item_id": "BU21-RM-012",
+      "business_unit": "Syrups",
+      "dead_from": "2025-01-01"
+    },
+    {
+      "item_id": "BU23-PK-002",
+      "business_unit": "Margarine",
+      "dead_from": "2026-01-01"
+    },
+    {
+      "item_id": "BU24-FG-008",
+      "business_unit": "Cooking Fats",
+      "dead_from": "2025-02-01"
+    },
+    {
+      "item_id": "BU24-PK-003",
+      "business_unit": "Cooking Fats",
+      "dead_from": "2026-01-01"
+    },
+    {
+      "item_id": "BU25-FG-005",
+      "business_unit": "Soap",
+      "dead_from": "2025-02-01"
+    },
+    {
+      "item_id": "BU25-RM-001",
+      "business_unit": "Soap",
+      "dead_from": "2025-08-01"
+    },
+    {
+      "item_id": "BU25-SP-007",
+      "business_unit": "Soap",
+      "dead_from": "2026-02-01"
+    },
+    {
+      "item_id": "BU25-SP-008",
+      "business_unit": "Soap",
+      "dead_from": "2025-03-01"
+    }
+  ]
+}
