@@ -2,6 +2,9 @@
 
 This practice project shows how a group with 7 verticals and 25 business units can get one trusted view of its inventory. A pipeline cleans duplicates, negatives and extra zeros, then reconciles stock records to finance balances. It measures days of stock and sets a seasonal target range for each business unit, so leaders can see what is above, in or below range. It also flags slow-moving, expiring and at-risk items and ranks the actions by naira value. Results appear in a Streamlit dashboard, an HTML executive report and a copilot that answers questions from the model’s numbers. A monthly refresh script checks incoming data before updating everything. The company and its data are fictional.
 
+<img width="1802" height="819" alt="image" src="https://github.com/user-attachments/assets/235f21bc-ecc5-4e9d-9290-51bda8679c57" />
+
+
 ## Run it
     pip install -r requirements.txt
     python run_pipeline.py --regenerate   # builds data and all results in outputs/
