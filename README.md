@@ -34,7 +34,7 @@ This practice project shows how a group with 7 verticals and 25 business units c
 - 2 extra-zero rows and 2 spare-part dead items are missed by design; the model's extra "Excess" units (Pasta, Syrups, etc.) are real idle dead stock.
 - With real data, expect messier inputs; rules in checks.py need tuning on actual D365 exports.
 
-https://tobi-john-plc-inventory-health-ntzhezagw6cacu9vdkshqy.streamlit.app/
+Link to model: https://tobi-john-plc-inventory-health-ntzhezagw6cacu9vdkshqy.streamlit.app/
 
 
 ## Working system (monthly refresh + copilot)
